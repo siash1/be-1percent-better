@@ -8,3 +8,5 @@
 - **28 August 2023:** - had an interview today, didn't go well. Started working on instadapp 
 - **29 August 2023:** - learned about promises in depth and watched The Social Network. Huge respect for Bill Gates, man's a genius.
 - **30 August 2023:** - had funal round with my fav company today, got selected, still can't believe it. Today I learned fre tricks about interview process.
+- **31 August 2023:** - worked on TESLA project
+- **1 September 2023:** - worked on TESLA project 
