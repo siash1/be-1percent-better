@@ -10,3 +10,4 @@
 - **30 August 2023:** - had funal round with my fav company today, got selected, still can't believe it. Today I learned fre tricks about interview process.
 - **31 August 2023:** - worked on TESLA project
 - **1 September 2023:** - worked on TESLA project 
+- **2 September 2023:** - worked on TESLA project 
