@@ -11,3 +11,4 @@
 - **31 August 2023:** - worked on TESLA project
 - **1 September 2023:** - worked on TESLA project 
 - **2 September 2023:** - worked on TESLA project 
+- **3 September 2023:** - making preparation for tommorrow :) 
