@@ -13,4 +13,4 @@
 - **2 September 2023:** - worked on TESLA project 
 - **3 September 2023:** - making preparation for tommorrow :) 
 - **4 September 2023:** - learned about website architecture, gave my all in discussion, setup mern stack.
-- - **5 September 2023:** - connected MERN stack and learning MongoDB/atlas
+- **5 September 2023:** - connected MERN stack and learning MongoDB/atlas
