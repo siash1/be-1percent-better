@@ -15,3 +15,4 @@
 - **4 September 2023:** - learned about website architecture, gave my all in discussion, setup mern stack.
 - **5 September 2023:** - connected MERN stack and learning MongoDB/atlas
 - **6 September 2023:** - setup mongo atlas, connected front-end and back-end 
+- **7 September 2023:** - learned to connect mongodb and backend and fetch data from MongoDB 
