@@ -19,4 +19,5 @@
 - **8 September 2023:** - connected mongo and frontend and fetched the data from mongo 
 - ** 9 September 2023:** - solved questions from freecodecamp
 - **10 September 2023:** - break :')
-- **8 September 2023:** - stored data from frontend to mongo and started watching freecodecamp react video(10hrs long)
+- **11 September 2023:** - stored data from frontend to mongo and started watching freecodecamp react video(10hrs long)
+- **12 September 2023:** - basics of react 
