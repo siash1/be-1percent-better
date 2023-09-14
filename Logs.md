@@ -22,3 +22,4 @@
 - **11 September 2023:** - stored data from frontend to mongo and started watching freecodecamp react video(10hrs long)
 - **12 September 2023:** - basics of react 
 - **13 September 2023:** - useEffect and useState
+- **14 September 2023:** - react video, created flowchart in ms word
