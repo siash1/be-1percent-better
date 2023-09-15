@@ -23,3 +23,5 @@
 - **12 September 2023:** - basics of react 
 - **13 September 2023:** - useEffect and useState
 - **14 September 2023:** - react video, created flowchart in ms word
+and useState
+- **1& September 2023:** - react video (forms)
