@@ -24,4 +24,6 @@
 - **13 September 2023:** - useEffect and useState
 - **14 September 2023:** - react video, created flowchart in ms word
 and useState
-- **1& September 2023:** - react video (forms)
+- **15 September 2023:** - react video (forms)
+- **16 September 2023:** - started redux
+- **17 September 2023:** - redux
