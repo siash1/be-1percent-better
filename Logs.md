@@ -27,4 +27,6 @@ and useState
 - **15 September 2023:** - react video (forms)
 - **16 September 2023:** - started redux
 - **17 September 2023:** - redux
-bhb
+- **18 September 2023:** - chatgpt docs, made chatbot with chatgpt and decided to be active and tweet on Twitter 
+- **19 September 2023:** - learned SQL
+
