@@ -29,4 +29,4 @@ and useState
 - **17 September 2023:** - redux
 - **18 September 2023:** - chatgpt docs, made chatbot with chatgpt and decided to be active and tweet on Twitter 
 - **19 September 2023:** - learned SQL
-
+- **20 September 2023:** - learned SQL roles, made Login and Signup page in react
