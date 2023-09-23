@@ -32,3 +32,4 @@ and useState
 - **20 September 2023:** - learned SQL roles, made Login and Signup page in react
 - **21 September 2023:** - made login, signup pages n react,learned about JWT, localstorage, session storage, and cookies.
 - **22 September 2023:** - merged login and other pages in the code base, SHA1
+- **23 September 2023:** - OSSU - Intro to CS - Python 🐍
