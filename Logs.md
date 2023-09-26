@@ -34,4 +34,5 @@ and useState
 - **22 September 2023:** - merged login and other pages in the code base, SHA1
 - **23 September 2023:** - OSSU - Intro to CS - Python 🐍
 - **24 September 2023:** - Python basics
-- **25 September 2023:** - 
+- **25 September 2023:** - made navbar in react, leaned hashing
+- **26 September 2023:** - worked on dashboard, Python continue...
