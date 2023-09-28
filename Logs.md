@@ -36,4 +36,5 @@ and useState
 - **24 September 2023:** - Python basics
 - **25 September 2023:** - made navbar in react, leaned hashing
 - **26 September 2023:** - worked on dashboard, Python continue...
-- **27 September 2023:** - 
+- **27 September 2023:** - materialui, dashboard, Linkedin api, oAuth
+- **28 September 2023:** - linkedin API, python
