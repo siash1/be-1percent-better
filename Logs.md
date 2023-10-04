@@ -41,5 +41,13 @@ and useState
 - **29 September 2023:** - got LinkedIn access token, LinkedIn marketing developer product 
 - **30 September 2023:** - python 
 - **01 October2023:** - python 
-python
+- **02 October2023:** - python 
+- **03 October2023:** - worked on dashboard
+- **04 October2023:** -  worked on dashboard
+- **05 October2023:** -  
+- **06 October2023:** -  
+- **07 October2023:** -  
+- **08 October2023:** -  
+- **09 October2023:** -  
+
 kal
