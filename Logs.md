@@ -47,5 +47,5 @@ and useState
 - **05 October2023:** -  worked on dashboard and planner
 - **06 October2023:** -  worked on analytics, planner
 - **07 October2023:** -  python
-- **08 October2023:** -  
+- **08 October2023:** -  python
 - **09 October2023:** -  
