@@ -48,4 +48,16 @@ and useState
 - **06 October2023:** -  worked on analytics, planner
 - **07 October2023:** -  python
 - **08 October2023:** -  python
-- **09 October2023:** -  
+- **09 October2023:** -  submitted beamster - changes to be made, completing react 
+- **10 October2023:** -  
+- **11 October2023:** -  
+- **12 October2023:** -  
+- **13 October2023:** -  
+- **14 October2023:** -  
+- **15 October2023:** -  
+- **16 October2023:** -  
+- **17 October2023:** -  
+- **18 October2023:** -  
+- **19 October2023:** -  
+- **20 October2023:** -  
+- **21 October2023:** -  
