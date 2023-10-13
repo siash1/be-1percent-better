@@ -52,7 +52,7 @@ and useState
 - **10 October2023:** -  worked on calendar, react
 - **11 October2023:** -  worked on API, react 
 - **12 October2023:** -  react
-- **13 October2023:** -  
+- **13 October2023:** -  twitter api, oauth 1.0
 - **14 October2023:** -  
 - **15 October2023:** -  
 - **16 October2023:** -  
