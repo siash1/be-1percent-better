@@ -54,10 +54,18 @@ and useState
 - **12 October2023:** -  react
 - **13 October2023:** -  twitter api, oauth 1.0
 - **14 October2023:** -  react
-- **15 October2023:** -  
+- **15 October2023:** -  react
 - **16 October2023:** -  
 - **17 October2023:** -  
 - **18 October2023:** -  
 - **19 October2023:** -  
 - **20 October2023:** -  
 - **21 October2023:** -  
+- **22 October2023:** -  
+- **23 October2023:** -  
+- **24 October2023:** -  
+- **25 October2023:** -  
+- **26 October2023:** -  
+- **27 October2023:** -  
+- **28 October2023:** -  
+- **29 October2023:** -  
