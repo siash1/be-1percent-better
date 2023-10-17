@@ -56,7 +56,7 @@ and useState
 - **14 October2023:** -  react
 - **15 October2023:** -  react
 - **16 October2023:** -  worked on beamster app and made many changes
-- **17 October2023:** -  
+- **17 October2023:** - worked on onboarding process 
 - **18 October2023:** -  
 - **19 October2023:** -  
 - **20 October2023:** -  
