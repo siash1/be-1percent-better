@@ -58,7 +58,7 @@ and useState
 - **16 October2023:** -  worked on beamster app and made many changes
 - **17 October2023:** - worked on onboarding process 
 - **18 October2023:** - worked on company profilin, Dashboard 
-- **19 October2023:** -  
+- **19 October2023:** -gave final submission of the app
 - **20 October2023:** -  
 - **21 October2023:** -  
 - **22 October2023:** -  
