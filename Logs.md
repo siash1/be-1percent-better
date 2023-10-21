@@ -60,7 +60,7 @@ and useState
 - **18 October2023:** - worked on company profilin, Dashboard 
 - **19 October2023:** -gave final submission of the app
 - **20 October2023:** -  signin-signup,jwt, google oauth
-- **21 October2023:** -  
+- **21 October2023:** -  signin-signup,jwt, google oauth
 - **22 October2023:** -  
 - **23 October2023:** -  
 - **24 October2023:** -  
