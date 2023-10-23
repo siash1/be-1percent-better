@@ -62,7 +62,7 @@ and useState
 - **20 October2023:** -  signin-signup,jwt, google oauth
 - **21 October2023:** -  signin-signup,jwt, google oauth
 - **22 October2023:** -  signin-signup,jwt, google oauth
-- **23 October2023:** -  
+- **23 October2023:** - googleOauth 
 - **24 October2023:** -  
 - **25 October2023:** -  
 - **26 October2023:** -  
