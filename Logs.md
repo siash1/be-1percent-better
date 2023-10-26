@@ -64,8 +64,8 @@ and useState
 - **22 October2023:** -  signin-signup,jwt, google oauth
 - **23 October2023:** - googleOauth 
 - **24 October2023:** -  react native 
-- **25 October2023:** -  react native setuo and file structure 
-- **26 October2023:** -  
+- **25 October2023:** -  react native setup and file structure 
+- **26 October2023:** -  react native
 - **27 October2023:** -  
 - **28 October2023:** -  
 - **29 October2023:** -  
