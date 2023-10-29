@@ -68,4 +68,4 @@ and useState
 - **26 October2023:** -  react native
 - **27 October2023:** -  installation of React Native in mac for ios and Android 
 - **28 October2023:** -  react native in ios
-- **29 October2023:** -  
+- **29 October2023:** -  react native 
