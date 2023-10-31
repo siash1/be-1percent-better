@@ -70,4 +70,28 @@ and useState
 - **28 October2023:** -  react native in ios
 - **29 October2023:** -  react native 
 in ios
-- **30 October2023:** - made login page in react native 
+- **30 October2023:** - made login page in react native
+- **31 October2023:** - react native navigation
+- **1 November2023:** - 
+- **2 November2023:** - 
+- **3 November2023:** - 
+- **4 November2023:** - 
+- **5 November2023:** - 
+- **6 November2023:** - 
+- **7 November2023:** - 
+- **8 November2023:** - 
+- **9 November2023:** - 
+- **10 November2023:** - 
+- **11 November2023:** - 
+- **12 November2023:** - 
+- **13 November2023:** - 
+- **14 November2023:** - 
+- **15 November2023:** - 
+- **16 November2023:** - 
+- **17 November2023:** - 
+- **18 November2023:** - 
+- **19 November2023:** - 
+- **20 November2023:** - 
+- **21 November2023:** - 
+- **22 November2023:** - 
+
