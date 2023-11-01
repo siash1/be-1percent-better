@@ -72,7 +72,7 @@ and useState
 in ios
 - **30 October2023:** - made login page in react native
 - **31 October2023:** - react native navigation
-- **1 November2023:** - 
+- **1 November2023:** - react native login page
 - **2 November2023:** - 
 - **3 November2023:** - 
 - **4 November2023:** - 
