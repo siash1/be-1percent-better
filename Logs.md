@@ -75,7 +75,7 @@ in ios
 - **1 November2023:** - react native login page
 - **2 November2023:** - react native onboarding page
 - **3 November2023:** - react native home page
-- **4 November2023:** - 
+- **4 November2023:** - react native navigation
 - **5 November2023:** - 
 - **6 November2023:** - 
 - **7 November2023:** - 
