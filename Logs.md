@@ -78,7 +78,7 @@ in ios
 - **4 November2023:** - react native navigation
 - **5 November2023:** - react native navigation
 - **6 November2023:** - react native bottom tab
-- **7 November2023:** - 
+- **7 November2023:** - react native dashboard, modal
 - **8 November2023:** - 
 - **9 November2023:** - 
 - **10 November2023:** - 
