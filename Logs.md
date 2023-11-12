@@ -82,8 +82,8 @@ in ios
 - **8 November2023:** - react native dashboard
 - **9 November2023:** - react native dashboard
 - **10 November2023:** - react native dashboard 
-- **11 November2023:** - react native
-- **12 November2023:** - 
+- **11 November2023:** - react native - debugging
+- **12 November2023:** - react native
 - **13 November2023:** - 
 - **14 November2023:** - 
 - **15 November2023:** - 
