@@ -85,7 +85,7 @@ in ios
 - **11 November2023:** - react native - debugging
 - **12 November2023:** - react native
 - **13 November2023:** - signin, signup in react native and microservices
-- **14 November2023:** - 
+- **14 November2023:** - sigin, signup react native 
 - **15 November2023:** - 
 - **16 November2023:** - 
 - **17 November2023:** - 
