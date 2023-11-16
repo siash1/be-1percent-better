@@ -87,7 +87,7 @@ in ios
 - **13 November2023:** - signin, signup in react native and microservices
 - **14 November2023:** - sigin, signup react native 
 - **15 November2023:** - react native auth page, ejs
-- **16 November2023:** - 
+- **16 November2023:** - ejs file structure and made a web page
 - **17 November2023:** - 
 - **18 November2023:** - 
 - **19 November2023:** - 
