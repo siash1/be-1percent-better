@@ -89,7 +89,7 @@ in ios
 - **15 November2023:** - react native auth page, ejs
 - **16 November2023:** - ejs file structure and made a web page
 - **17 November2023:** - react native category and brands list 
-- **18 November2023:** - 
+- **18 November2023:** - react native category page 
 - **19 November2023:** - 
 - **20 November2023:** - 
 - **21 November2023:** - 
