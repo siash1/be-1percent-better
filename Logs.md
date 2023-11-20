@@ -91,7 +91,7 @@ in ios
 - **17 November2023:** - react native category and brands list 
 - **18 November2023:** - react native category page 
 - **19 November2023:** - rest day :)
-- **20 November2023:** - 
+- **20 November2023:** - nfc tag, Android build, nfc integration 
 - **21 November2023:** - 
 - **22 November2023:** - 
 
