@@ -92,6 +92,6 @@ in ios
 - **18 November2023:** - react native category page 
 - **19 November2023:** - rest day :)
 - **20 November2023:** - nfc tag, Android build, nfc integration 
-- **21 November2023:** - 
+- **21 November2023:** - dynamic react native response with NFC 
 - **22 November2023:** - 
 
