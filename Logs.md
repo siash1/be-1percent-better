@@ -94,4 +94,31 @@ in ios
 - **20 November2023:** - nfc tag, Android build, nfc integration 
 - **21 November2023:** - dynamic react native response with NFC 
 - **22 November2023:** - new auth page, nfc integration 
-
+- **23 November2023:** - category new look and brand images added, apple developer cert, id
+- **24 November2023:** - 
+- **25 November2023:** - 
+- **26 November2023:** - 
+- **27 November2023:** -
+- **28 November2023:** - 
+- **29 November2023:** - 
+- **30 November2023:** - 
+- **01 December2023:** - 
+- **02 December2023:** - 
+- **03 December2023:** -  
+- **04 December2023:** - 
+- **05 December2023:** - 
+- **06 December2023:** -
+- **07 December2023:** -  
+- **08 December2023:** - 
+- **09 December2023:** - 
+- **10 December2023:** - 
+- **11 December2023:** - 
+- **12 December2023:** - 
+- **13 December2023:** - 
+- **14 December2023:** - 
+- **15 December2023:** - 
+- **16 December2023:** - 
+- **17 December2023:** - 
+- **18 December2023:** -
+- **19 December2023:** - 
+- **20 December2023:** - 
