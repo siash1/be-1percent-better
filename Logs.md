@@ -95,7 +95,7 @@ in ios
 - **21 November2023:** - dynamic react native response with NFC 
 - **22 November2023:** - new auth page, nfc integration 
 - **23 November2023:** - category new look and brand images added, apple developer cert, id
-- **24 November2023:** - 
+- **24 November2023:** - apple developer account phone connection, changed react native version to 0.70.0
 - **25 November2023:** - 
 - **26 November2023:** - 
 - **27 November2023:** -
