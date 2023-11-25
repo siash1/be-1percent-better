@@ -96,7 +96,7 @@ in ios
 - **22 November2023:** - new auth page, nfc integration 
 - **23 November2023:** - category new look and brand images added, apple developer cert, id
 - **24 November2023:** - apple developer account phone connection, changed react native version to 0.70.0
-- **25 November2023:** - 
+- **25 November2023:** - react native ios build
 - **26 November2023:** - 
 - **27 November2023:** -
 - **28 November2023:** - 
