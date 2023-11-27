@@ -98,7 +98,7 @@ in ios
 - **24 November2023:** - apple developer account phone connection, changed react native version to 0.70.0
 - **25 November2023:** - react native ios build
 - **26 November2023:** - react  native
-- **27 November2023:** -
+- **27 November2023:** - ios installation and apple developer provision and certificate created
 - **28 November2023:** - 
 - **29 November2023:** - 
 - **30 November2023:** - 
