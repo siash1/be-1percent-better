@@ -99,7 +99,7 @@ in ios
 - **25 November2023:** - react native ios build
 - **26 November2023:** - react  native
 - **27 November2023:** - ios installation and apple developer provision and certificate created
-- **28 November2023:** - 
+- **28 November2023:** - final changes in the app
 - **29 November2023:** - 
 - **30 November2023:** - 
 - **01 December2023:** - 
