@@ -100,7 +100,7 @@ in ios
 - **26 November2023:** - react  native
 - **27 November2023:** - ios installation and apple developer provision and certificate created
 - **28 November2023:** - final changes in the app
-- **29 November2023:** - 
+- **29 November2023:** - reat native top tab nav, and some changes 
 - **30 November2023:** - 
 - **01 December2023:** - 
 - **02 December2023:** - 
