@@ -102,7 +102,7 @@ in ios
 - **28 November2023:** - final changes in the app
 - **29 November2023:** - reat native top tab nav, and some changes 
 - **30 November2023:** - react native nfc and auth changes making it dynamic with the url response
-- **01 December2023:** - 
+- **01 December2023:** - tested app on ios and gave demo, dynamic response not working
 - **02 December2023:** - 
 - **03 December2023:** -  
 - **04 December2023:** - 
