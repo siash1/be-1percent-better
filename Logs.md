@@ -104,7 +104,7 @@ in ios
 - **30 November2023:** - react native nfc and auth changes making it dynamic with the url response
 - **01 December2023:** - tested app on ios and gave demo, dynamic response not working
 - **02 December2023:** - react native and building it on android
-- **03 December2023:** -  
+- **03 December2023:** -  react native tutorial
 - **04 December2023:** - 
 - **05 December2023:** - 
 - **06 December2023:** -
