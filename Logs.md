@@ -105,7 +105,7 @@ in ios
 - **01 December2023:** - tested app on ios and gave demo, dynamic response not working
 - **02 December2023:** - react native and building it on android
 - **03 December2023:** -  react native tutorial
-- **04 December2023:** - 
+- **04 December2023:** - react native android build
 - **05 December2023:** - 
 - **06 December2023:** -
 - **07 December2023:** -  
