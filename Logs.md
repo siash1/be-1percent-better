@@ -106,7 +106,7 @@ in ios
 - **02 December2023:** - react native and building it on android
 - **03 December2023:** -  react native tutorial
 - **04 December2023:** - react native android build
-- **05 December2023:** - 
+- **05 December2023:** - react native android build
 - **06 December2023:** -
 - **07 December2023:** -  
 - **08 December2023:** - 
