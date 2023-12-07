@@ -108,7 +108,7 @@ in ios
 - **04 December2023:** - react native android build
 - **05 December2023:** - react native android build
 - **06 December2023:** - react hooks
-- **07 December2023:** -  
+- **07 December2023:** -  changes in Scanner component in react native
 - **08 December2023:** - 
 - **09 December2023:** - 
 - **10 December2023:** - 
