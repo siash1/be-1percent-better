@@ -110,7 +110,7 @@ in ios
 - **06 December2023:** - react hooks
 - **07 December2023:** -  changes in Scanner component in react native
 - **08 December2023:** - fixed the permission and alert in scanner
-- **09 December2023:** - 
+- **09 December2023:** - going deep into javascript, execution context
 - **10 December2023:** - 
 - **11 December2023:** - 
 - **12 December2023:** - 
