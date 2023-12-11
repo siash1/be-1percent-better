@@ -112,7 +112,7 @@ in ios
 - **08 December2023:** - fixed the permission and alert in scanner
 - **09 December2023:** - going deep into javascript, execution context
 - **10 December2023:** - meeting with ARVO tesm and great insights, what quantum computer is, arms vs x86 processors
-- **11 December2023:** - ios build with camera working 
+- **11 December2023:** - ios build with camera working and invoice page made
 - **12 December2023:** - 
 - **13 December2023:** - 
 - **14 December2023:** - 
