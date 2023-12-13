@@ -114,7 +114,7 @@ in ios
 - **10 December2023:** - meeting with ARVO tesm and great insights, what quantum computer is, arms vs x86 processors
 - **11 December2023:** - ios build with camera working and invoice page made
 - **12 December2023:** - few adjustments in project
-- **13 December2023:** - 
+- **13 December2023:** - made product database, nfc counter and security measures 
 - **14 December2023:** - 
 - **15 December2023:** - 
 - **16 December2023:** - 
