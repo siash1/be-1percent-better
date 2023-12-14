@@ -115,7 +115,7 @@ in ios
 - **11 December2023:** - ios build with camera working and invoice page made
 - **12 December2023:** - few adjustments in project
 - **13 December2023:** - made product database, nfc counter and security measures 
-- **14 December2023:** - 
+- **14 December2023:** - react native components - Platorm
 - **15 December2023:** - 
 - **16 December2023:** - 
 - **17 December2023:** - 
