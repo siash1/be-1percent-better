@@ -116,7 +116,7 @@ in ios
 - **12 December2023:** - few adjustments in project
 - **13 December2023:** - made product database, nfc counter and security measures 
 - **14 December2023:** - react native components - Platorm
-- **15 December2023:** - 
+- **15 December2023:** - fetching data from database and make the page dynamic
 - **16 December2023:** - 
 - **17 December2023:** - 
 - **18 December2023:** -
