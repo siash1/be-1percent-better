@@ -118,7 +118,7 @@ in ios
 - **14 December2023:** - react native components - Platorm
 - **15 December2023:** - fetching data from database and make the page dynamic
 - **16 December2023:** - break :)
-- **17 December2023:** - 
+- **17 December2023:** - Open and close loop in nfc
 - **18 December2023:** -
 - **19 December2023:** - 
 - **20 December2023:** - 
