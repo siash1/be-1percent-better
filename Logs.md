@@ -119,6 +119,16 @@ in ios
 - **15 December2023:** - fetching data from database and make the page dynamic
 - **16 December2023:** - break :)
 - **17 December2023:** - Open and close loop in nfc
-- **18 December2023:** -
+- **18 December2023:** - security measure added to NFC by recognizing the uid with nfc's serial number
 - **19 December2023:** - 
 - **20 December2023:** - 
+- **21 December2023:** - 
+- **22 December2023:** - 
+- **23 December2023:** - 
+- **24 December2023:** - 
+- **25 December2023:** - 
+- **26 December2023:** - 
+- **27 December2023:** - 
+- **28 December2023:** - 
+- **29 December2023:** - 
+- **30 December2023:** - 
