@@ -120,7 +120,7 @@ in ios
 - **16 December2023:** - break :)
 - **17 December2023:** - Open and close loop in nfc
 - **18 December2023:** - security measure added to NFC by recognizing the uid with nfc's serial number
-- **19 December2023:** - 
+- **19 December2023:** - worked on a new screen in the app and 2 factor authentication
 - **20 December2023:** - 
 - **21 December2023:** - 
 - **22 December2023:** - 
