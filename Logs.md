@@ -122,7 +122,7 @@ in ios
 - **18 December2023:** - security measure added to NFC by recognizing the uid with nfc's serial number
 - **19 December2023:** - worked on a new screen in the app and 2 factor authentication
 - **20 December2023:** - migrated to 0.73.1, redux, aws installed and amplify cli
-- **21 December2023:** - 
+- **21 December2023:** - redux tutorial
 - **22 December2023:** - 
 - **23 December2023:** - 
 - **24 December2023:** - 
