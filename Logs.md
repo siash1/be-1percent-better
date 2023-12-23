@@ -124,7 +124,7 @@ in ios
 - **20 December2023:** - migrated to 0.73.1, redux, aws installed and amplify cli
 - **21 December2023:** - redux tutorial
 - **22 December2023:** - redux, and changes the structure of files in react native
-- **23 December2023:** - 
+- **23 December2023:** - resolved the problem in 0.73.1 for ios 
 - **24 December2023:** - 
 - **25 December2023:** - 
 - **26 December2023:** - 
