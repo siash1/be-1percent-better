@@ -125,7 +125,8 @@ in ios
 - **21 December2023:** - redux tutorial
 - **22 December2023:** - redux, and changes the structure of files in react native
 - **23 December2023:** - resolved the problem in 0.73.1 for ios 
-- **24 December2023:** - 
+- **24 December2023:** - break
+
 - **25 December2023:** - 
 - **26 December2023:** - 
 - **27 December2023:** - 
