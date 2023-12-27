@@ -128,7 +128,7 @@ in ios
 - **24 December2023:** - break
 - **25 December2023:** - working on firebase
 - **26 December2023:** - implemented redux in react native signin and signup
-- **27 December2023:** - 
+- **27 December2023:** - feed page with dynamic posts 
 - **28 December2023:** - 
 - **29 December2023:** - 
 - **30 December2023:** - 
