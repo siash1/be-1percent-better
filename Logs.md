@@ -132,3 +132,4 @@ in ios
 - **28 December2023:** - modal for full screen image 
 - **29 December2023:** - product info design 
 - **30 December2023:** - lambda functions
+- - **31 December2023:** - break
