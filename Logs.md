@@ -134,7 +134,7 @@ in ios
 - **30 December2023:** - lambda functions
 - - **31 December2023:** - break
 - - **1 January 2024:** - lambda func, aws intro, college selection for MCA
-- - **2 January 2024:** - 
+- - **2 January 2024:** - product info design and college selected for MCA
 - - **3 January 2024:** - 
 - - **4 January 2024:** - 
 - - **5 January 2024:** - 
