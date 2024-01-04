@@ -136,7 +136,7 @@ in ios
 - - **1 January 2024:** - lambda func, aws intro, college selection for MCA
 - - **2 January 2024:** - product info design and college selected for MCA
 - - **3 January 2024:** - about cloud computing and its type, 
-- - **4 January 2024:** - 
+- - **4 January 2024:** - aws tutorial
 - - **5 January 2024:** - 
 - - **6 January 2024:** - 
 - - **7 January 2024:** - 
