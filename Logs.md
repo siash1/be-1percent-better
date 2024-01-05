@@ -137,7 +137,7 @@ in ios
 - - **2 January 2024:** - product info design and college selected for MCA
 - - **3 January 2024:** - about cloud computing and its type, 
 - - **4 January 2024:** - aws tutorial
-- - **5 January 2024:** - 
+- - **5 January 2024:** - EC2 instance
 - - **6 January 2024:** - 
 - - **7 January 2024:** - 
 - - **8 January 2024:** - 
