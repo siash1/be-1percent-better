@@ -140,8 +140,8 @@ in ios
 - - **5 January 2024:** - EC2 instance
 - - **6 January 2024:** - security 
 - - **7 January 2024:** - cognito aws
-- - **8 January 2024:** - 
-- - **9 January 2024:** - 
+- - **8 January 2024:** - amplify 
+- - **9 January 2024:** - integrated amplify with react native 
 - - **10 January 2024:** - 
 - - **11 January 2024:** - 
 - - **12 January 2024:** - 
