@@ -142,7 +142,7 @@ in ios
 - - **7 January 2024:** - cognito aws
 - - **8 January 2024:** - amplify 
 - - **9 January 2024:** - integrated amplify with react native 
-- - **10 January 2024:** - 
+- - **10 January 2024:** - amplify user session setup 
 - - **11 January 2024:** - 
 - - **12 January 2024:** - 
 - - **13 January 2024:** - 
