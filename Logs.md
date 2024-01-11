@@ -143,7 +143,7 @@ in ios
 - - **8 January 2024:** - amplify 
 - - **9 January 2024:** - integrated amplify with react native 
 - - **10 January 2024:** - amplify user session setup 
-- - **11 January 2024:** - 
+- - **11 January 2024:** - aws
 - - **12 January 2024:** - 
 - - **13 January 2024:** - 
 - - **14 January 2024:** - 
