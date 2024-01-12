@@ -144,7 +144,7 @@ in ios
 - - **9 January 2024:** - integrated amplify with react native 
 - - **10 January 2024:** - amplify user session setup 
 - - **11 January 2024:** - aws
-- - **12 January 2024:** - 
+- - **12 January 2024:** - aws api gateway
 - - **13 January 2024:** - 
 - - **14 January 2024:** - 
 - - **15 January 2024:** - 
