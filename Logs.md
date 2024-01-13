@@ -145,7 +145,7 @@ in ios
 - - **10 January 2024:** - amplify user session setup 
 - - **11 January 2024:** - aws
 - - **12 January 2024:** - aws api gateway
-- - **13 January 2024:** - 
+- - **13 January 2024:** - lambda and rds
 - - **14 January 2024:** - 
 - - **15 January 2024:** - 
 - - **16 January 2024:** - 
