@@ -147,7 +147,7 @@ in ios
 - - **12 January 2024:** - aws api gateway
 - - **13 January 2024:** - lambda and rds
 - - **14 January 2024:** - rds
-- - **15 January 2024:** - 
+- - **15 January 2024:** - read docs regarding lambda and rds connect
 - - **16 January 2024:** - 
 - - **17 January 2024:** - 
 - - **18 January 2024:** - 
