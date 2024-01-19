@@ -151,7 +151,7 @@ in ios
 - - **16 January 2024:** - rds and lambda and api gateway 
 - - **17 January 2024:** - schema for postgresql and lambda rds connect 
 - - **18 January 2024:** - PostgreSQL
-- - **19 January 2024:** - 
+- - **19 January 2024:** - postgresql queries 
 - - **20 January 2024:** - 
 - - **21 January 2024:** - 
 - - **22 January 2024:** - 
