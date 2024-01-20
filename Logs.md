@@ -152,7 +152,7 @@ in ios
 - - **17 January 2024:** - schema for postgresql and lambda rds connect 
 - - **18 January 2024:** - PostgreSQL
 - - **19 January 2024:** - postgresql queries 
-- - **20 January 2024:** - 
+- - **20 January 2024:** - break
 - - **21 January 2024:** - 
 - - **22 January 2024:** - 
 - - **23 January 2024:** - 
