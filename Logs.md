@@ -154,7 +154,7 @@ in ios
 - - **19 January 2024:** - postgresql queries 
 - - **20 January 2024:** - break
 - - **21 January 2024:** - postgresql
-- - **22 January 2024:** - 
+- - **22 January 2024:** - postgresql queries
 - - **23 January 2024:** - 
 - - **24 January 2024:** - 
 - - **25 January 2024:** - 
