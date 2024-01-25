@@ -157,7 +157,7 @@ in ios
 - - **22 January 2024:** - postgresql queries
 - - **23 January 2024:** - postgresql
 - - **24 January 2024:** - postgresql
-- - **25 January 2024:** - 
+- - **25 January 2024:** - postgresql
 - - **26 January 2024:** - 
 - - **27 January 2024:** - 
 - - **28 January 2024:** - 
