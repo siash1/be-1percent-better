@@ -132,63 +132,63 @@ in ios
 - **28 December2023:** - modal for full screen image 
 - **29 December2023:** - product info design 
 - **30 December2023:** - lambda functions
-- - **31 December2023:** - break
-- - **1 January 2024:** - lambda func, aws intro, college selection for MCA
-- - **2 January 2024:** - product info design and college selected for MCA
-- - **3 January 2024:** - about cloud computing and its type, 
-- - **4 January 2024:** - aws tutorial
-- - **5 January 2024:** - EC2 instance
-- - **6 January 2024:** - security 
-- - **7 January 2024:** - cognito aws
-- - **8 January 2024:** - amplify 
-- - **9 January 2024:** - integrated amplify with react native 
-- - **10 January 2024:** - amplify user session setup 
-- - **11 January 2024:** - aws
-- - **12 January 2024:** - aws api gateway
-- - **13 January 2024:** - lambda and rds
-- - **14 January 2024:** - rds
-- - **15 January 2024:** - read docs regarding lambda and rds connect
-- - **16 January 2024:** - rds and lambda and api gateway 
-- - **17 January 2024:** - schema for postgresql and lambda rds connect 
-- - **18 January 2024:** - PostgreSQL
-- - **19 January 2024:** - postgresql queries 
-- - **20 January 2024:** - break
-- - **21 January 2024:** - postgresql
-- - **22 January 2024:** - postgresql queries
-- - **23 January 2024:** - postgresql
-- - **24 January 2024:** - postgresql
-- - **25 January 2024:** - postgresql
-- - **26 January 2024:** - postgresql
-- - **27 January 2024:** - 
-- - **28 January 2024:** - 
-- - **29 January 2024:** - 
-- - **30 January 2024:** - 
-- - **31 January 2024:** - 
-- - **1 February 2024:** - 
-- - **2 February 2024:** - 
-- - **3 February 2024:** - 
-- - **4 February 2024:** - 
-- - **5 February 2024:** - 
-- - **6 February 2024:** - 
-- - **7 February 2024:** - 
-- - **8 February 2024:** - 
-- - **9 February 2024:** - 
-- - **10 February 2024:** - 
-- - **11 February 2024:** - 
-- - **12 February 2024:** - 
-- - **13 February 2024:** - 
-- - **14 February 2024:** - 
-- - **15 February 2024:** - 
-- - **16 February 2024:** - 
-- - **17 February 2024:** - 
-- - **18 February 2024:** - 
-- - **19 February 2024:** - 
-- - **20 February 2024:** - 
-- - **21 February 2024:** - 
-- - **22 February 2024:** - 
-- - **23 February 2024:** - 
-- - **24 February 2024:** - 
-- - **25 February 2024:** - 
-- - **26 February 2024:** - 
-- - **27 February 2024:** - 
-- - **28 February 2024:** - 
+-  **1 January 2024:** - lambda func, aws intro, college selection for MCA
+  - **31 December2023:** - break
+  - **2 January 2024:** - product info design and college selected for MCA
+  - **3 January 2024:** - about cloud computing and its type, 
+  - **4 January 2024:** - aws tutorial
+  - **5 January 2024:** - EC2 instance
+  - **6 January 2024:** - security 
+  - **7 January 2024:** - cognito aws
+  - **8 January 2024:** - amplify 
+  - **9 January 2024:** - integrated amplify with react native 
+  - **10 January 2024:** - amplify user session setup 
+  - **11 January 2024:** - aws
+  - **12 January 2024:** - aws api gateway
+  - **13 January 2024:** - lambda and rds
+  - **14 January 2024:** - rds
+  - **15 January 2024:** - read docs regarding lambda and rds connect
+ - **16 January 2024:** - rds and lambda and api gateway 
+  - **17 January 2024:** - schema for postgresql and lambda rds connect 
+  - **18 January 2024:** - PostgreSQL
+  - **19 January 2024:** - postgresql queries 
+  - **20 January 2024:** - break
+  - **21 January 2024:** - postgresql
+  - **22 January 2024:** - postgresql queries
+  - **23 January 2024:** - postgresql
+  - **24 January 2024:** - postgresql
+  - **25 January 2024:** - postgresql
+  - **26 January 2024:** - postgresql
+  - **27 January 2024:** - 
+  - **28 January 2024:** - 
+  - **29 January 2024:** - 
+  - **30 January 2024:** - 
+  - **31 January 2024:** - 
+  - **1 February 2024:** - 
+  - **2 February 2024:** - 
+  - **3 February 2024:** - 
+  - **4 February 2024:** - 
+  - **5 February 2024:** - 
+  - **6 February 2024:** - 
+  - **7 February 2024:** - 
+  - **8 February 2024:** - 
+  - **9 February 2024:** - 
+  - **10 February 2024:** - 
+  - **11 February 2024:** - 
+  - **12 February 2024:** - 
+  - **13 February 2024:** - 
+  - **14 February 2024:** - 
+  - **15 February 2024:** - 
+  - **16 February 2024:** - 
+  - **17 February 2024:** - 
+  - **18 February 2024:** - 
+  - **19 February 2024:** - 
+ - **20 February 2024:** - 
+  - **21 February 2024:** - 
+  - **22 February 2024:** - 
+  - **23 February 2024:** - 
+ - **24 February 2024:** - 
+  - **25 February 2024:** - 
+  - **26 February 2024:** - 
+  - **27 February 2024:** - 
+ - **28 February 2024:** 
