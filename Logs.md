@@ -159,7 +159,7 @@ in ios
   - **24 January 2024:** - postgresql
   - **25 January 2024:** - postgresql
   - **26 January 2024:** - postgresql
-  - **27 January 2024:** - 
+  - **27 January 2024:** - tried posting data on postgresql
   - **28 January 2024:** - 
   - **29 January 2024:** - 
   - **30 January 2024:** - 
