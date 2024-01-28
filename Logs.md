@@ -160,7 +160,7 @@ in ios
   - **25 January 2024:** - postgresql
   - **26 January 2024:** - postgresql
   - **27 January 2024:** - tried posting data on postgresql
-  - **28 January 2024:** - 
+  - **28 January 2024:** - lambda connection 
   - **29 January 2024:** - 
   - **30 January 2024:** - 
   - **31 January 2024:** - 
