@@ -164,7 +164,7 @@ in ios
   - **29 January 2024:** - added data to pstgresql, started blockchain development
   - **30 January 2024:** - next.js tutorial
   - **31 January 2024:** - Next.js
-  - **1 February 2024:** - 
+  - **1 February 2024:** - Next.js
   - **2 February 2024:** - 
   - **3 February 2024:** - 
   - **4 February 2024:** - 
