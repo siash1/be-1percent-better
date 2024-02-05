@@ -168,7 +168,7 @@ in ios
   - **2 February 2024:** - product demo
   - **3 February 2024:** - changes in next.js web app
   - **4 February 2024:** - break 
-  - **5 February 2024:** - frontend changes in next.js
+  - **5 February 2024:** - frontend changes in next.js, custom product journey
   - **6 February 2024:** - 
   - **7 February 2024:** - 
   - **8 February 2024:** - 
