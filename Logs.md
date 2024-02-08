@@ -171,7 +171,7 @@ in ios
   - **5 February 2024:** - frontend changes in next.js, custom product journey
   - **6 February 2024:** - frontend changes in next.js
   - **7 February 2024:** - frontend changes in next.js, bluorng brand collab 
-  - **8 February 2024:** - 
+  - **8 February 2024:** - blockchain
   - **9 February 2024:** - 
   - **10 February 2024:** - 
   - **11 February 2024:** - 
