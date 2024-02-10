@@ -173,7 +173,7 @@ in ios
   - **7 February 2024:** - frontend changes in next.js, bluorng brand collab 
   - **8 February 2024:** - blockchain
   - **9 February 2024:** - worked on database and next js
-  - **10 February 2024:** - 
+  - **10 February 2024:** - blockchain
   - **11 February 2024:** - 
   - **12 February 2024:** - 
   - **13 February 2024:** - 
