@@ -174,7 +174,7 @@ in ios
   - **8 February 2024:** - blockchain
   - **9 February 2024:** - worked on database and next js
   - **10 February 2024:** - blockchain
-  - **11 February 2024:** - 
+  - **11 February 2024:** - blockchain
   - **12 February 2024:** - 
   - **13 February 2024:** - 
   - **14 February 2024:** - 
