@@ -178,7 +178,7 @@ in ios
   - **12 February 2024:** - node, blocks, hashing, testnet, mainnet - blockchain
   - **13 February 2024:** - signature blockchain
   - **14 February 2024:** - blockchain 
-  - **15 February 2024:** - 
+  - **15 February 2024:** - blockchain, EIP 1599, Remix, Solidity
   - **16 February 2024:** - 
   - **17 February 2024:** - 
   - **18 February 2024:** - 
