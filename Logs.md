@@ -179,7 +179,7 @@ in ios
   - **13 February 2024:** - signature blockchain
   - **14 February 2024:** - blockchain 
   - **15 February 2024:** - blockchain, EIP 1599, Remix, Solidity
-  - **16 February 2024:** - 
+  - **16 February 2024:** - Solidity
   - **17 February 2024:** - 
   - **18 February 2024:** - 
   - **19 February 2024:** - 
