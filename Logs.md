@@ -181,7 +181,7 @@ in ios
   - **15 February 2024:** - blockchain, EIP 1599, Remix, Solidity
   - **16 February 2024:** - Solidity
   - **17 February 2024:** - break(sick)
-  - **18 February 2024:** - 
+  - **18 February 2024:** - break (sick)
   - **19 February 2024:** - 
  - **20 February 2024:** - 
   - **21 February 2024:** - 
