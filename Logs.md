@@ -186,7 +186,7 @@ in ios
  - **20 February 2024:** - blockchain 
   - **21 February 2024:** - Solidity
   - **22 February 2024:** - blockchain, DAO attack
-  - **23 February 2024:** - 
+  - **23 February 2024:** - Solidity 
  - **24 February 2024:** - 
   - **25 February 2024:** - 
   - **26 February 2024:** - 
