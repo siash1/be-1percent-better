@@ -189,6 +189,6 @@ in ios
   - **23 February 2024:** - Solidity 
  - **24 February 2024:** - Solidity 
   - **25 February 2024:** - Solidity
-  - **26 February 2024:** - 
+  - **26 February 2024:** - Solidity and worked on AIC 
   - **27 February 2024:** - 
  - **28 February 2024:** 
