@@ -192,3 +192,34 @@ in ios
   - **26 February 2024:** - Solidity and worked on AIC 
   - **27 February 2024:** - solidity 
  - **28 February 2024:** - Solidity and changes in AIC
+ - **29 February 2024:** - Written contract for product jounrey and tested it out
+ - **1 March 2024:** -
+ - **2 March 2024:** -
+ - **3 March 2024:** -
+ - **4 March 2024:** -
+ - **5 March 2024:** -
+ - **6 March 2024:** -
+ - **7 March 2024:** -
+ - **8 March 2024:** -
+ - **9 March 2024:** -
+ - **10 March 2024:** -
+ - **11 March 2024:** -
+ - **12 March 2024:** -
+ - **13 March 2024:** -
+ - **14 March 2024:** -
+ - **15 March 2024:** -
+ - **16 March 2024:** -
+ - **17 March 2024:** -
+ - **18 March 2024:** -
+ - **19 March 2024:** -
+ - **20 March 2024:** -
+ - **21 March 2024:** -
+ - **22 March 2024:** -
+ - **23 March 2024:** -
+ - **24 March 2024:** -
+ - **25 March 2024:** -
+ - **26 March 2024:** -
+ - **27 March 2024:** -
+ - **28 March 2024:** -
+ - **29 March 2024:** -
+ - **30 March 2024:** -
