@@ -193,7 +193,7 @@ in ios
   - **27 February 2024:** - solidity 
  - **28 February 2024:** - Solidity and changes in AIC
  - **29 February 2024:** - Written contract for product jounrey and tested it out
- - **1 March 2024:** -
+ - **1 March 2024:** - integrated it with AIC and debugging smart contract
  - **2 March 2024:** -
  - **3 March 2024:** -
  - **4 March 2024:** -
