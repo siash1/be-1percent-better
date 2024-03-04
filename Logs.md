@@ -196,7 +196,7 @@ in ios
  - **1 March 2024:** - integrated it with AIC and debugging smart contract
  - **2 March 2024:** - Integrated blockchain with AIC successfully with the help of https://rpc.maticvigil.com/ and web3 library 
  - **3 March 2024:** - Blockchain 
- - **4 March 2024:** -
+ - **4 March 2024:** - Creating new AIC page from scratch - Dashboard 
  - **5 March 2024:** -
  - **6 March 2024:** -
  - **7 March 2024:** -
