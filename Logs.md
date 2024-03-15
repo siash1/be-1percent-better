@@ -207,7 +207,7 @@ in ios
  - **12 March 2024:** - login page - AIC
  - **13 March 2024:** - Product list page 
  - **14 March 2024:** - Product description 
- - **15 March 2024:** -
+ - **15 March 2024:** - Integrated Login page with cognito
  - **16 March 2024:** -
  - **17 March 2024:** -
  - **18 March 2024:** -
