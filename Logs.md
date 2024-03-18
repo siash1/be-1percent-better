@@ -210,7 +210,7 @@ in ios
  - **15 March 2024:** - Integrated Login page with cognito
  - **16 March 2024:** - busy day
  - **17 March 2024:** - break
- - **18 March 2024:** -
+ - **18 March 2024:** - Went to India startup and had interaction with different people 
  - **19 March 2024:** -
  - **20 March 2024:** -
  - **21 March 2024:** -
