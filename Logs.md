@@ -211,7 +211,7 @@ in ios
  - **16 March 2024:** - busy day
  - **17 March 2024:** - break
  - **18 March 2024:** - Went to India startup and had interaction with different people 
- - **19 March 2024:** -
+ - **19 March 2024:** - day 2 at the event
  - **20 March 2024:** -
  - **21 March 2024:** -
  - **22 March 2024:** -
