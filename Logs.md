@@ -212,7 +212,7 @@ in ios
  - **17 March 2024:** - break
  - **18 March 2024:** - Went to India startup and had interaction with different people 
  - **19 March 2024:** - day 2 at the event
- - **20 March 2024:** -
+ - **20 March 2024:** - day 3 
  - **21 March 2024:** -
  - **22 March 2024:** -
  - **23 March 2024:** -
