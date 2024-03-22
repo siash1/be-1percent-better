@@ -214,7 +214,7 @@ in ios
  - **19 March 2024:** - day 2 at the event
  - **20 March 2024:** - day 3 
  - **21 March 2024:** - algorand 
- - **22 March 2024:** -
+ - **22 March 2024:** - algorand 
  - **23 March 2024:** -
  - **24 March 2024:** -
  - **25 March 2024:** -
