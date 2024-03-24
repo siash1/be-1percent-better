@@ -216,7 +216,7 @@ in ios
  - **21 March 2024:** - algorand 
  - **22 March 2024:** - algorand 
  - **23 March 2024:** - algorand 
- - **24 March 2024:** -
+ - **24 March 2024:** - blockchain 
  - **25 March 2024:** -
  - **26 March 2024:** -
  - **27 March 2024:** -
