@@ -218,7 +218,7 @@ in ios
  - **23 March 2024:** - algorand 
  - **24 March 2024:** - blockchain 
  - **25 March 2024:** - holi break
- - **26 March 2024:** -
+ - **26 March 2024:** - AIC page and Blockchain 
  - **27 March 2024:** -
  - **28 March 2024:** -
  - **29 March 2024:** -
