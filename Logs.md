@@ -221,5 +221,5 @@ in ios
  - **26 March 2024:** - AIC page and Blockchain 
  - **27 March 2024:** - Aic Page, Algorand, Query Processing 
  - **28 March 2024:** - Aic page and query processing 
- - **29 March 2024:** -
+ - **29 March 2024:** -  Aic page, Query Processing 
  - **30 March 2024:** -
