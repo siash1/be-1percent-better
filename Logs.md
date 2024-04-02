@@ -225,7 +225,7 @@ in ios
  - **30 March 2024:** - Query Processing 
  - **31 March 2024:** - Query Processing 
  - **1 April 2024:** -  AIC page 
- - **2 April 2024:** - 
+ - **2 April 2024:** - AIC page 
  - **3 April 2024:** - 
  - **4 April 2024:** - 
  - **5 April 2024:** - 
