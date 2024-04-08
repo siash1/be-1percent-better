@@ -231,7 +231,7 @@ in ios
  - **5 April 2024:** - AIC page, algorand smart contract 
  - **6 April 2024:** - Algorand 
  - **7 April 2024:** - break
- - **8 April 2024:** - 
+ - **8 April 2024:** - AIC page, algorand
  - **9 April 2024:** - 
  - **10 April 2024:** - 
  - **11 April 2024:** - 
