@@ -232,7 +232,7 @@ in ios
  - **6 April 2024:** - Algorand 
  - **7 April 2024:** - break
  - **8 April 2024:** - AIC page, algorand
- - **9 April 2024:** - 
+ - **9 April 2024:** - AIC page
  - **10 April 2024:** - 
  - **11 April 2024:** - 
  - **12 April 2024:** - 
