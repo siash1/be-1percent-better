@@ -235,7 +235,7 @@ in ios
  - **9 April 2024:** - AIC page
  - **10 April 2024:** - Algorand
  - **11 April 2024:** - AIC page
- - **12 April 2024:** - 
+ - **12 April 2024:** - AIC page
  - **13 April 2024:** - 
  - **14 April 2024:** - 
  - **15 April 2024:** - 
