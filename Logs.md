@@ -239,7 +239,7 @@ in ios
  - **13 April 2024:** -  self time
  - **14 April 2024:** - Query Processing 
  - **15 April 2024:** - AIC page
- - **16 April 2024:** - 
+ - **16 April 2024:** - AIC Page
  - **17 April 2024:** - 
  - **18 April 2024:** - 
  - **19 April 2024:** - 
