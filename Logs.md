@@ -240,7 +240,7 @@ in ios
  - **14 April 2024:** - Query Processing 
  - **15 April 2024:** - AIC page
  - **16 April 2024:** - AIC Page
- - **17 April 2024:** - 
+ - **17 April 2024:** - AIC page
  - **18 April 2024:** - 
  - **19 April 2024:** - 
  - **20 April 2024:** - 
