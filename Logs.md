@@ -243,7 +243,7 @@ in ios
  - **17 April 2024:** - AIC page
  - **18 April 2024:** - AIC Page
  - **19 April 2024:** - AIC Page
- - **20 April 2024:** - 
+ - **20 April 2024:** - Algorand 
  - **21 April 2024:** - 
  - **22 April 2024:** - 
  - **23 April 2024:** - 
