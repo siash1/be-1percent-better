@@ -246,7 +246,7 @@ in ios
  - **20 April 2024:** - Algorand 
  - **21 April 2024:** - break
  - **22 April 2024:** - Algorand 
- - **23 April 2024:** - 
+ - **23 April 2024:** - Settings page
  - **24 April 2024:** - 
  - **25 April 2024:** - 
  - **26 April 2024:** - 
