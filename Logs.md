@@ -248,7 +248,7 @@ in ios
  - **22 April 2024:** - Algorand 
  - **23 April 2024:** - Settings page
  - **24 April 2024:** - react-tab
- - **25 April 2024:** - 
+ - **25 April 2024:** - Product details tabs
  - **26 April 2024:** - 
  - **27 April 2024:** - 
  - **28 April 2024:** - 
