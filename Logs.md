@@ -251,7 +251,7 @@ in ios
  - **25 April 2024:** - Product details tabs
  - **26 April 2024:** - AIC product list
  - **27 April 2024:** - algorand
- - **28 April 2024:** - 
+ - **28 April 2024:** - algorand 
  - **29 April 2024:** - 
  - **30 April 2024:** - 
 
