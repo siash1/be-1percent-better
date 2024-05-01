@@ -254,4 +254,5 @@ in ios
  - **28 April 2024:** - algorand 
  - **29 April 2024:** - AIC super admin
  - **30 April 2024:** - AIC Page
+ - **1 May 2024:** - AIC Page
 
