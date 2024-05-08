@@ -261,7 +261,7 @@ in ios
  - **5 May 2024:** - break
  - **6 May 2024:** - AIC superadmin User management page
  - **7 May 2024:** - AIC page
- - **8 May 2024:** - 
+ - **8 May 2024:** - AIC page
  - **9 May 2024:** - 
  - **10 May 2024:** - 
  - **11 May 2024:** - 
