@@ -264,7 +264,7 @@ in ios
  - **8 May 2024:** - AIC page
  - **9 May 2024:** - AIC Ticket page 
  - **10 May 2024:** - AIC page
- - **11 May 2024:** - 
+ - **11 May 2024:** - algorand 
  - **12 May 2024:** - 
  - **13 May 2024:** - 
  - **14 May 2024:** - 
