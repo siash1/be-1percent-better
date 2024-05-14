@@ -267,7 +267,7 @@ in ios
  - **11 May 2024:** - algorand 
  - **12 May 2024:** - Algorand 
  - **13 May 2024:** - AIC page
- - **14 May 2024:** - 
+ - **14 May 2024:** - AIC page
  - **15 May 2024:** - 
  - **16 May 2024:** - 
  - **17 May 2024:** - 
