@@ -270,7 +270,7 @@ in ios
  - **14 May 2024:** - AIC page
  - **15 May 2024:** - AIC page
  - **16 May 2024:** - AIC page
- - **17 May 2024:** - 
+ - **17 May 2024:** - AIC page pricing 
  - **18 May 2024:** - 
  - **19 May 2024:** - 
  - **20 May 2024:** - 
