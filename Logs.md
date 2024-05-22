@@ -275,7 +275,7 @@ in ios
  - **19 May 2024:** - break
  - **20 May 2024:** - AIC page
  - **21 May 2024:** - AIC Page
- - **22 May 2024:** - 
+ - **22 May 2024:** - AIC page
  - **23 May 2024:** - 
  - **24 May 2024:** - 
  - **25 May 2024:** - 
