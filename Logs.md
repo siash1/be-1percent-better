@@ -280,7 +280,7 @@ in ios
  - **24 May 2024:** - AIC Page
  - **25 May 2024:** - break
  - **26 May 2024:** - aic page
- - **27 May 2024:** - 
+ - **27 May 2024:** - AIC Page
  - **28 May 2024:** - 
  - **29 May 2024:** - 
  - **30 May 2024:** - 
