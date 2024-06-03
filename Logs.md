@@ -286,7 +286,7 @@ in ios
  - **30 May 2024:** - DCode page
  - **31 May 2024:** - blockchain 
  - **1 April 2024:** - blockchain
- - **2 April 2024:** - 
+ - **2 April 2024:** - AIC Page
  - **3 April 2024:** - 
  - **4 April 2024:** - 
  - **5 April 2024:** - 
