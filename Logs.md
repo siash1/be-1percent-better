@@ -287,7 +287,7 @@ in ios
  - **31 May 2024:** - blockchain 
  - **1 June 2024:** - blockchain
  - **2 June 2024:** - AIC Page
- - **3 June 2024:** - 
+ - **3 June 2024:** - AIC Page
  - **4 June 2024:** - 
  - **5 June 2024:** - 
  - **6 June 2024:** - 
