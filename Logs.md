@@ -288,7 +288,7 @@ in ios
  - **1 June 2024:** - blockchain
  - **2 June 2024:** - AIC Page
  - **3 June 2024:** - AIC Page
- - **4 June 2024:** - 
+ - **4 June 2024:** - Algorand blockchain 
  - **5 June 2024:** - 
  - **6 June 2024:** - 
  - **7 June 2024:** - 
