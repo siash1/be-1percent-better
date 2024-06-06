@@ -289,7 +289,7 @@ in ios
  - **2 June 2024:** - AIC Page
  - **3 June 2024:** - AIC Page
  - **4 June 2024:** - Algorand blockchain 
- - **5 June 2024:** - 
+ - **5 June 2024:** - Algorand blockchain connected with frontend 
  - **6 June 2024:** - 
  - **7 June 2024:** - 
  - **8 June 2024:** - 
