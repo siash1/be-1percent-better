@@ -290,7 +290,7 @@ in ios
  - **3 June 2024:** - AIC Page
  - **4 June 2024:** - Algorand blockchain 
  - **5 June 2024:** - Algorand blockchain connected with frontend 
- - **6 June 2024:** - 
+ - **6 June 2024:** - AWS connect from frontend, lamba, api gateway and dynamo db connected and tested through postman api
  - **7 June 2024:** - 
  - **8 June 2024:** - 
  - **9 June 2024:** - 
