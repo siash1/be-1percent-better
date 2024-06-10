@@ -293,7 +293,7 @@ in ios
  - **6 June 2024:** - AWS connect from frontend, lamba, api gateway and dynamo db connected and tested through postman api
  - **7 June 2024:** - Dynamo db for blockchain traceability and integration 
  - **8 June 2024:** - Connecting PAI to frontend and showing it on maps
- - **9 June 2024:** - 
+ - **9 June 2024:** - Changes in traceability pages
  - **10 June 2024:** - 
  - **11 June 2024:** - 
  - **12 June 2024:** - 
