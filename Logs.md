@@ -294,7 +294,7 @@ in ios
  - **7 June 2024:** - Dynamo db for blockchain traceability and integration 
  - **8 June 2024:** - Connecting PAI to frontend and showing it on maps
  - **9 June 2024:** - Changes in traceability pages
- - **10 June 2024:** - 
+ - **10 June 2024:** - Planning how to do the changes
  - **11 June 2024:** - 
  - **12 June 2024:** - 
  - **13 June 2024:** - 
