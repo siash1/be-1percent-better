@@ -295,7 +295,7 @@ in ios
  - **8 June 2024:** - Connecting PAI to frontend and showing it on maps
  - **9 June 2024:** - Changes in traceability pages
  - **10 June 2024:** - Planning how to do the changes
- - **11 June 2024:** - 
+ - **11 June 2024:** - Traceability changes
  - **12 June 2024:** - 
  - **13 June 2024:** - 
  - **14 June 2024:** - 
