@@ -296,7 +296,7 @@ in ios
  - **9 June 2024:** - Changes in traceability pages
  - **10 June 2024:** - Planning how to do the changes
  - **11 June 2024:** - Traceability changes
- - **12 June 2024:** - 
+ - **12 June 2024:** - Traceability changes 
  - **13 June 2024:** - 
  - **14 June 2024:** - 
  - **15 June 2024:** - 
