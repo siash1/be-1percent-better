@@ -297,7 +297,7 @@ in ios
  - **10 June 2024:** - Planning how to do the changes
  - **11 June 2024:** - Traceability changes
  - **12 June 2024:** - Traceability changes 
- - **13 June 2024:** - 
+ - **13 June 2024:** - saved images kn S3 bucket and showed jn frontend 
  - **14 June 2024:** - 
  - **15 June 2024:** - 
  - **16 June 2024:** - 
