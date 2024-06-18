@@ -302,6 +302,6 @@ in ios
  - **15 June 2024:** - Traceability changes
  - **16 June 2024:** - break
  - **17 June 2024:** - Traceability done
- - **18 June 2024:** - 
+ - **18 June 2024:** - testing 
  - **19 June 2024:** - 
  - **20 June 2024:** - 
