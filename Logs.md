@@ -304,4 +304,4 @@ in ios
  - **17 June 2024:** - Traceability done
  - **18 June 2024:** - testing 
  - **19 June 2024:** - consumer app to fetch data
- - **20 June 2024:** - 
+ - **20 June 2024:** - AIC changes
