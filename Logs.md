@@ -307,7 +307,7 @@ in ios
  - **20 June 2024:** - AIC changes
  - **21 June 2024:** - AIC changes
  - **22 June 2024:** - Creating verification for apimedcare with lottery spinner
- - **23 June 2024:** - 
+ - **23 June 2024:** - lambda for verification through whats app
  - **24 June 2024:** - 
  - **25 June 2024:** - 
  - **26 June 2024:** - 
