@@ -310,7 +310,7 @@ in ios
  - **23 June 2024:** - lambda for verification through whats app
  - **24 June 2024:** - Aic Changes 
  - **25 June 2024:** - AIC Changes
- - **26 June 2024:** - 
+ - **26 June 2024:** - Apmed spinner 
  - **27 June 2024:** - 
  - **28 June 2024:** - 
  - **29 June 2024:** - 
