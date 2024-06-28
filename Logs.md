@@ -311,8 +311,8 @@ in ios
  - **24 June 2024:** - Aic Changes 
  - **25 June 2024:** - AIC Changes
  - **26 June 2024:** - Apmed spinner 
- - **27 June 2024:** - Advance software engineering MCA
- - **28 June 2024:** - 
+ - **27 June 2024:** - Advance software engineering 
+ - **28 June 2024:** - break
  - **29 June 2024:** - 
  - **30 June 2024:** - 
  - **1 July 2024:** - 
