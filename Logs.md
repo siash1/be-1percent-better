@@ -313,7 +313,7 @@ in ios
  - **26 June 2024:** - Apmed spinner 
  - **27 June 2024:** - Advance software engineering 
  - **28 June 2024:** - break
- - **29 June 2024:** - 
+ - **29 June 2024:** - AIC
  - **30 June 2024:** - 
  - **1 July 2024:** - 
  - **2 July 2024:** - 
