@@ -314,7 +314,7 @@ in ios
  - **27 June 2024:** - Advance software engineering 
  - **28 June 2024:** - break
  - **29 June 2024:** - AIC
- - **30 June 2024:** - 
+ - **30 June 2024:** - Advance software engineer 
  - **1 July 2024:** - 
  - **2 July 2024:** - 
  - **3 July 2024:** - 
