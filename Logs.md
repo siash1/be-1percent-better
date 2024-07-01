@@ -315,7 +315,7 @@ in ios
  - **28 June 2024:** - break
  - **29 June 2024:** - AIC
  - **30 June 2024:** - Advance software engineer 
- - **1 July 2024:** - 
+ - **1 July 2024:** - backend for apmedcare
  - **2 July 2024:** - 
  - **3 July 2024:** - 
  - **4 July 2024:** - 
