@@ -318,7 +318,7 @@ in ios
  - **1 July 2024:** - backend for apmedcare
  - **2 July 2024:** - dev doc for AIC
  - **3 July 2024:** - algorand smart contract 
- - **4 July 2024:** - 
+ - **4 July 2024:** - smart contract 
  - **5 July 2024:** - 
  - **6 July 2024:** - 
  - **7 July 2024:** - 
