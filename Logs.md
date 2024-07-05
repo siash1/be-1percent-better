@@ -319,7 +319,7 @@ in ios
  - **2 July 2024:** - dev doc for AIC
  - **3 July 2024:** - algorand smart contract 
  - **4 July 2024:** - smart contract 
- - **5 July 2024:** - 
+ - **5 July 2024:** - smart contract 
  - **6 July 2024:** - 
  - **7 July 2024:** - 
  - **8 July 2024:** - 
