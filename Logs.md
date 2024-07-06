@@ -320,7 +320,7 @@ in ios
  - **3 July 2024:** - algorand smart contract 
  - **4 July 2024:** - smart contract 
  - **5 July 2024:** - smart contract 
- - **6 July 2024:** - 
+ - **6 July 2024:** - break
  - **7 July 2024:** - 
  - **8 July 2024:** - 
  - **9 July 2024:** - 
