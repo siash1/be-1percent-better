@@ -321,7 +321,7 @@ in ios
  - **4 July 2024:** - smart contract 
  - **5 July 2024:** - smart contract 
  - **6 July 2024:** - break
- - **7 July 2024:** - 
+ - **7 July 2024:** - break 
  - **8 July 2024:** - 
  - **9 July 2024:** - 
  - **10 July 2024:** - 
