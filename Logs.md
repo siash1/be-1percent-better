@@ -323,7 +323,7 @@ in ios
  - **6 July 2024:** - break
  - **7 July 2024:** - break 
  - **8 July 2024:** -Smart contract 
- - **9 July 2024:** - 
+ - **9 July 2024:** - spinner changes
  - **10 July 2024:** - 
  - **11 July 2024:** - 
  - **12 July 2024:** - 
