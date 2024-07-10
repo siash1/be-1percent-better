@@ -324,7 +324,7 @@ in ios
  - **7 July 2024:** - break 
  - **8 July 2024:** -Smart contract 
  - **9 July 2024:** - spinner changes
- - **10 July 2024:** - 
+ - **10 July 2024:** - algokit, AIC and spinner Changes
  - **11 July 2024:** - 
  - **12 July 2024:** - 
  - **13 July 2024:** - 
