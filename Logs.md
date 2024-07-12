@@ -326,7 +326,7 @@ in ios
  - **9 July 2024:** - spinner changes
  - **10 July 2024:** - algokit, AIC and spinner Changes
  - **11 July 2024:** - spinner 
- - **12 July 2024:** - 
+ - **12 July 2024:** - algorand smart control api
  - **13 July 2024:** - 
  - **14 July 2024:** - 
  - **15 July 2024:** - 
