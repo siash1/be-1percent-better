@@ -328,7 +328,7 @@ in ios
  - **11 July 2024:** - spinner 
  - **12 July 2024:** - algorand smart control api
  - **13 July 2024:** - advance software development 
- - **14 July 2024:** - 
+ - **14 July 2024:** - afv software development 
  - **15 July 2024:** - 
  - **16 July 2024:** - 
  - **17 July 2024:** - 
