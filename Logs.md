@@ -331,7 +331,7 @@ in ios
  - **14 July 2024:** - adv software development 
  - **15 July 2024:** - smart contract connected with localnet
  - **16 July 2024:** - frontend for dcode using Vite and chakra ui
- - **17 July 2024:** - 
+ - **17 July 2024:** - dcode frontend 
  - **18 July 2024:** - 
  - **19 July 2024:** - 
  - **20 July 2024:** - 
