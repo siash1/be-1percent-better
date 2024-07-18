@@ -332,6 +332,6 @@ in ios
  - **15 July 2024:** - smart contract connected with localnet
  - **16 July 2024:** - frontend for dcode using Vite and chakra ui
  - **17 July 2024:** - dcode frontend 
- - **18 July 2024:** - 
+ - **18 July 2024:** - dcode frontend 
  - **19 July 2024:** - 
  - **20 July 2024:** - 
