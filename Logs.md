@@ -335,3 +335,38 @@ in ios
  - **18 July 2024:** - dcode frontend 
  - **19 July 2024:** - dcode frontend 
  - **20 July 2024:** - dcode frontend 
+ - **21 July 2024:** - advance software development
+ - **22 July 2024:** - 
+ - **23 July 2024:** - 
+ - **24 July 2024:** - 
+ - **25 July 2024:** - 
+ - **26 July 2024:** - 
+ - **27 July 2024:** - 
+ - **28 July 2024:** - 
+ - **29 July 2024:** - 
+ - **30 July 2024:** - 
+ - **31 July 2024:** - 
+ - **1 August 2024:** - 
+ - **2 August 2024:** - 
+ - **3 August 2024:** - 
+ - **4 August 2024:** - 
+ - **5 August 2024:** - 
+ - **6 August 2024:** - 
+ - **7 August 2024:** - 
+ - **8 August 2024:** - 
+ - **9 August 2024:** - 
+ - **10 August 2024:** - 
+ - **11 August 2024:** - 
+ - **12 August 2024:** - 
+ - **13 August 2024:** - 
+ - **14 August 2024:** - 
+ - **15 August 2024:** - 
+ - **16 August 2024:** - 
+ - **17 August 2024:** - 
+ - **18 August 2024:** - 
+ - **19 August 2024:** - 
+ - **20 August 2024:** - 
+
+
+
+
