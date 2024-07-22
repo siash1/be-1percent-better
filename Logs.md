@@ -336,7 +336,7 @@ in ios
  - **19 July 2024:** - dcode frontend 
  - **20 July 2024:** - dcode frontend 
  - **21 July 2024:** - advance software development
- - **22 July 2024:** - 
+ - **22 July 2024:** - frontend for dcode
  - **23 July 2024:** - 
  - **24 July 2024:** - 
  - **25 July 2024:** - 
