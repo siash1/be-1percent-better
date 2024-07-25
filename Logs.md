@@ -339,7 +339,7 @@ in ios
  - **22 July 2024:** - frontend for dcode
  - **23 July 2024:** - frontend for dcode and Java test
  - **24 July 2024:** - dcode frontend 
- - **25 July 2024:** - 
+ - **25 July 2024:** - dcode frontend 
  - **26 July 2024:** - 
  - **27 July 2024:** - 
  - **28 July 2024:** - 
