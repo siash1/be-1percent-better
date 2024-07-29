@@ -343,7 +343,7 @@ in ios
  - **26 July 2024:** - dcode frontend 
  - **27 July 2024:** - database management system test
  - **28 July 2024:** - advance software engineering exam
- - **29 July 2024:** - 
+ - **29 July 2024:** - dcode frontend 
  - **30 July 2024:** - 
  - **31 July 2024:** - 
  - **1 August 2024:** - 
