@@ -345,7 +345,7 @@ in ios
  - **28 July 2024:** - advance software engineering exam
  - **29 July 2024:** - dcode frontend 
  - **30 July 2024:** - dcode frontend 
- - **31 July 2024:** - 
+ - **31 July 2024:** - cognito user pool setup and singup with verification done
  - **1 August 2024:** - 
  - **2 August 2024:** - 
  - **3 August 2024:** - 
