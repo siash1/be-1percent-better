@@ -346,7 +346,7 @@ in ios
  - **29 July 2024:** - dcode frontend 
  - **30 July 2024:** - dcode frontend 
  - **31 July 2024:** - cognito user pool setup and singup with verification done
- - **1 August 2024:** - 
+ - **1 August 2024:** - Signin and logout done
  - **2 August 2024:** - 
  - **3 August 2024:** - 
  - **4 August 2024:** - 
