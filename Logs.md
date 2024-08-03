@@ -348,7 +348,7 @@ in ios
  - **31 July 2024:** - cognito user pool setup and singup with verification done
  - **1 August 2024:** - Signin and logout done
  - **2 August 2024:** - save data jn dynamo and s3
- - **3 August 2024:** - 
+ - **3 August 2024:** - backend for dcode
  - **4 August 2024:** - 
  - **5 August 2024:** - 
  - **6 August 2024:** - 
