@@ -350,7 +350,7 @@ in ios
  - **2 August 2024:** - save data jn dynamo and s3
  - **3 August 2024:** - backend for dcode
  - **4 August 2024:** - backend dcode
- - **5 August 2024:** - 
+ - **5 August 2024:** - backend dcode
  - **6 August 2024:** - 
  - **7 August 2024:** - 
  - **8 August 2024:** - 
