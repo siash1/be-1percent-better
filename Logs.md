@@ -352,7 +352,7 @@ in ios
  - **4 August 2024:** - backend dcode
  - **5 August 2024:** - backend dcode
  - **6 August 2024:** - backend dcode ( saving data)
- - **7 August 2024:** - 
+ - **7 August 2024:** - backend dcode, save data 
  - **8 August 2024:** - 
  - **9 August 2024:** - 
  - **10 August 2024:** - 
