@@ -362,7 +362,7 @@ in ios
  - **14 August 2024:** - dcode live
  - **15 August 2024:** - changes in dcode
  - **16 August 2024:** - break
- - **17 August 2024:** - 
+ - **17 August 2024:** - dcode backend
  - **18 August 2024:** - 
  - **19 August 2024:** - 
  - **20 August 2024:** - 
