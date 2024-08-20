@@ -365,7 +365,7 @@ in ios
  - **17 August 2024:** - dcode backend
  - **18 August 2024:** - break
  - **19 August 2024:** - dcode backend 
- - **20 August 2024:** - 
+ - **20 August 2024:** - dcode 
 
 
 
