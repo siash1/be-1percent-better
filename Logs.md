@@ -366,7 +366,28 @@ in ios
  - **18 August 2024:** - break
  - **19 August 2024:** - dcode backend 
  - **20 August 2024:** - dcode pricing
-
+ - **21 August 2024:** - debugging dcode errors
+ - **22 August 2024:** - 
+ - **23 August 2024:** - 
+ - **24 August 2024:** - 
+ - **25 August 2024:** - 
+ - **26 August 2024:** - 
+ - **27 August 2024:** - 
+ - **28 August 2024:** - 
+ - **29 August 2024:** - 
+ - **30 August 2024:** - 
+ - **31 August 2024:** - 
+ - **1 September 2024:** - 
+ - **2 September 2024:** - 
+ - **3 September 2024:** - 
+ - **4 September 2024:** - 
+ - **5 September 2024:** - 
+ - **6 September 2024:** - 
+ - **7 September 2024:** - 
+ - **8 September 2024:** - 
+ - **9 September 2024:** - 
+ - **10 September 2024:** - 
+ - **11 September 2024:** - 
 
 
 
