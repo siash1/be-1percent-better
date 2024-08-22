@@ -367,7 +367,7 @@ in ios
  - **19 August 2024:** - dcode backend 
  - **20 August 2024:** - dcode pricing
  - **21 August 2024:** - debugging dcode errors
- - **22 August 2024:** - 
+ - **22 August 2024:** - mobole optimization dcode
  - **23 August 2024:** - 
  - **24 August 2024:** - 
  - **25 August 2024:** - 
