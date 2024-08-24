@@ -369,7 +369,7 @@ in ios
  - **21 August 2024:** - debugging dcode errors
  - **22 August 2024:** - mobole optimization dcode
  - **23 August 2024:** - mobile optimization dcode
- - **24 August 2024:** - 
+ - **24 August 2024:** - Mobile opt
  - **25 August 2024:** - 
  - **26 August 2024:** - 
  - **27 August 2024:** - 
