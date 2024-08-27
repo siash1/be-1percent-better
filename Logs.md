@@ -372,7 +372,7 @@ in ios
  - **24 August 2024:** - Mobile opt
  - **25 August 2024:** - mobile opt
  - **26 August 2024:** - mobile opt
- - **27 August 2024:** - 
+ - **27 August 2024:** - mobile opt
  - **28 August 2024:** - 
  - **29 August 2024:** - 
  - **30 August 2024:** - 
