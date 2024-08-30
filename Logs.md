@@ -375,7 +375,7 @@ in ios
  - **27 August 2024:** - mobile opt
  - **28 August 2024:** - mobile opt
  - **29 August 2024:** - review lambda
- - **30 August 2024:** - 
+ - **30 August 2024:** - review feature 
  - **31 August 2024:** - 
  - **1 September 2024:** - 
  - **2 September 2024:** - 
