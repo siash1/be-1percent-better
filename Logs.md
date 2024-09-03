@@ -379,7 +379,7 @@ in ios
  - **31 August 2024:** - javascript revision 
  - **1 September 2024:** - review post and get method
  - **2 September 2024:** - review page in dcode
- - **3 September 2024:** - 
+ - **3 September 2024:** - review done
  - **4 September 2024:** - 
  - **5 September 2024:** - 
  - **6 September 2024:** - 
