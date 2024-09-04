@@ -380,7 +380,7 @@ in ios
  - **1 September 2024:** - review post and get method
  - **2 September 2024:** - review page in dcode
  - **3 September 2024:** - review done
- - **4 September 2024:** - 
+ - **4 September 2024:** - tier planning 
  - **5 September 2024:** - 
  - **6 September 2024:** - 
  - **7 September 2024:** - 
