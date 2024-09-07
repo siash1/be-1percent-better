@@ -383,7 +383,7 @@ in ios
  - **4 September 2024:** - tier planning 
  - **5 September 2024:** - tier planning 
  - **6 September 2024:** - tier lambda
- - **7 September 2024:** - 
+ - **7 September 2024:** - tier functionality and stripe integration done
  - **8 September 2024:** - 
  - **9 September 2024:** - 
  - **10 September 2024:** - 
