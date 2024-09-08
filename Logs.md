@@ -384,7 +384,7 @@ in ios
  - **5 September 2024:** - tier planning 
  - **6 September 2024:** - tier lambda
  - **7 September 2024:** - tier functionality and stripe integration done
- - **8 September 2024:** - 
+ - **8 September 2024:** - tier integration 
  - **9 September 2024:** - 
  - **10 September 2024:** - 
  - **11 September 2024:** - 
