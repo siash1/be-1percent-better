@@ -386,7 +386,7 @@ in ios
  - **7 September 2024:** - tier functionality and stripe integration done
  - **8 September 2024:** - tier integration 
  - **9 September 2024:** - Eventbridge for plan expiry in AWS
- - **10 September 2024:** - 
+ - **10 September 2024:** - minor changes in dcode
  - **11 September 2024:** - 
  - **12 September 2024:** - 
  - **13 September 2024:** - 
