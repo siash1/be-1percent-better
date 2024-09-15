@@ -390,7 +390,7 @@ in ios
  - **11 September 2024:** - templates added in the dcode 
  - **12 September 2024:** - changes in dcode
  - **13 September 2024:** - break
- - **14 September 2024:** - 
+ - **14 September 2024:** - break
  - **15 September 2024:** - break
  - **16 September 2024:** - 
  - **17 September 2024:** - 
