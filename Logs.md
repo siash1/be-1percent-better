@@ -392,7 +392,7 @@ in ios
  - **13 September 2024:** - break
  - **14 September 2024:** - break
  - **15 September 2024:** - break
- - **16 September 2024:** - 
+ - **16 September 2024:** - break
  - **17 September 2024:** - 
  - **18 September 2024:** - 
  - **19 September 2024:** - 
