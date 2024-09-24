@@ -400,7 +400,7 @@ in ios
  - **21 September 2024:** - break
  - **22 September 2024:** - break
  - **23 September 2024:** - break
- - **24 September 2024:** - 
+ - **24 September 2024:** - break
  - **25 September 2024:** - 
  - **26 September 2024:** - 
  - **27 September 2024:** - 
