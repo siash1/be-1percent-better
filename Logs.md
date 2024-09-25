@@ -401,7 +401,7 @@ in ios
  - **22 September 2024:** - break
  - **23 September 2024:** - break
  - **24 September 2024:** - break
- - **25 September 2024:** - 
+ - **25 September 2024:** - break 
  - **26 September 2024:** - 
  - **27 September 2024:** - 
  - **28 September 2024:** - 
