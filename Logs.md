@@ -403,7 +403,7 @@ in ios
  - **24 September 2024:** - break
  - **25 September 2024:** - break 
  - **26 September 2024:** - Break
- - **27 September 2024:** - 
+ - **27 September 2024:** - break
  - **28 September 2024:** - 
  - **29 September 2024:** - 
  - **30 September 2024:** - 
