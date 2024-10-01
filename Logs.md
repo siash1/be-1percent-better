@@ -407,7 +407,7 @@ in ios
  - **28 September 2024:** - break
  - **29 September 2024:** - break
  - **30 September 2024:** - changes in dcode
- - **1 October 2024:** - 
+ - **1 October 2024:** - aic
  - **2 October 2024:** - 
  - **3 October 2024:** - 
  - **4 October 2024:** - 
