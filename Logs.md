@@ -412,7 +412,7 @@ in ios
  - **3 October 2024:** - AIC
  - **4 October 2024:** - aic 
  - **5 October 2024:** - dsa 
- - **6 October 2024:** - 
+ - **6 October 2024:** - dsa
  - **7 October 2024:** - 
  - **8 October 2024:** - 
  - **9 October 2024:** - 
