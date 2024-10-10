@@ -416,7 +416,7 @@ in ios
  - **7 October 2024:** - dsa
  - **8 October 2024:** - AIC
  - **9 October 2024:** - Got selected for Algo event in Bangkok!
- - **10 October 2024:** - 
+ - **10 October 2024:** - blockchain revision 
  - **11 October 2024:** - 
  - **12 October 2024:** - 
  - **13 October 2024:** - 
