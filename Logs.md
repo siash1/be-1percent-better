@@ -418,7 +418,7 @@ in ios
  - **9 October 2024:** - Got selected for Algo event in Bangkok!
  - **10 October 2024:** - blockchain revision 
  - **11 October 2024:** - block chain basics
- - **12 October 2024:** - 
+ - **12 October 2024:** - blockchain 
  - **13 October 2024:** - 
  - **14 October 2024:** - 
  - **15 October 2024:** - 
