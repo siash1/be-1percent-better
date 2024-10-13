@@ -419,7 +419,7 @@ in ios
  - **10 October 2024:** - blockchain revision 
  - **11 October 2024:** - block chain basics
  - **12 October 2024:** - blockchain 
- - **13 October 2024:** - 
+ - **13 October 2024:** - blockchain 
  - **14 October 2024:** - 
  - **15 October 2024:** - 
  - **16 October 2024:** - 
