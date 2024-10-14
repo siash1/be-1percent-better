@@ -420,7 +420,7 @@ in ios
  - **11 October 2024:** - block chain basics
  - **12 October 2024:** - blockchain 
  - **13 October 2024:** - blockchain 
- - **14 October 2024:** - 
+ - **14 October 2024:** - blockchain and flutter
  - **15 October 2024:** - 
  - **16 October 2024:** - 
  - **17 October 2024:** - 
