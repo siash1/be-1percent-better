@@ -422,7 +422,7 @@ in ios
  - **13 October 2024:** - blockchain 
  - **14 October 2024:** - blockchain and flutter
  - **15 October 2024:** - IMC event 
- - **16 October 2024:** - 
+ - **16 October 2024:** - blockchain 
  - **17 October 2024:** - 
  - **18 October 2024:** - 
  - **19 October 2024:** - 
