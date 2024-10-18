@@ -424,7 +424,7 @@ in ios
  - **15 October 2024:** - IMC event 
  - **16 October 2024:** - blockchain 
  - **17 October 2024:** - blockchain 
- - **18 October 2024:** - 
+ - **18 October 2024:** - samsung qr code
  - **19 October 2024:** - 
  - **20 October 2024:** - 
  - **21 October 2024:** - 
