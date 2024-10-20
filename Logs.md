@@ -426,7 +426,7 @@ in ios
  - **17 October 2024:** - blockchain 
  - **18 October 2024:** - samsung qr code
  - **19 October 2024:** - blockchain 
- - **20 October 2024:** - 
+ - **20 October 2024:** - blockchain 
  - **21 October 2024:** - 
  - **22 October 2024:** - 
  - **23 October 2024:** - 
