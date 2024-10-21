@@ -427,7 +427,7 @@ in ios
  - **18 October 2024:** - samsung qr code
  - **19 October 2024:** - blockchain 
  - **20 October 2024:** - blockchain 
- - **21 October 2024:** - 
+ - **21 October 2024:** - created api for saving and fetching data for samsung 
  - **22 October 2024:** - 
  - **23 October 2024:** - 
  - **24 October 2024:** - 
