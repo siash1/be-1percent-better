@@ -431,6 +431,23 @@ in ios
  - **22 October 2024:** - blockchain and samsung data
  - **23 October 2024:** - blockchain 
  - **24 October 2024:** - architecture planning for samsung 
+ - **25 October 2024:** - AIC aztec code and data matrix
+ - **26 October 2024:** - 
+ - **27 October 2024:** - 
+ - **28 October 2024:** - 
+ - **29 October 2024:** - 
+ - **30 October 2024:** - 
+ - **31 October 2024:** - 
+ - **1 November 2024:** - 
+ - **2 November 2024:** - 
+ - **3 November 2024:** - 
+ - **4 November 2024:** - 
+ - **5 November 2024:** - 
+ - **6 November 2024:** - 
+ - **7 November 2024:** - 
+ - **8 November 2024:** - 
+ - **9 November 2024:** - 
+ - **10 November 2024:** - 
 
 
 
