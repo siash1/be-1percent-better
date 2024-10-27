@@ -433,7 +433,7 @@ in ios
  - **24 October 2024:** - architecture planning for samsung 
  - **25 October 2024:** - AIC aztec code and data matrix
  - **26 October 2024:** - blockchain 
- - **27 October 2024:** - 
+ - **27 October 2024:** - blockchain 
  - **28 October 2024:** - 
  - **29 October 2024:** - 
  - **30 October 2024:** - 
