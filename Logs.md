@@ -434,7 +434,7 @@ in ios
  - **25 October 2024:** - AIC aztec code and data matrix
  - **26 October 2024:** - blockchain 
  - **27 October 2024:** - blockchain 
- - **28 October 2024:** - 
+ - **28 October 2024:** - Samsung db structure, post and get data
  - **29 October 2024:** - 
  - **30 October 2024:** - 
  - **31 October 2024:** - 
