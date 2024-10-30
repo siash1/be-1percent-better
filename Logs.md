@@ -436,7 +436,7 @@ in ios
  - **27 October 2024:** - blockchain 
  - **28 October 2024:** - Samsung db structure, post and get data
  - **29 October 2024:** - Samsung get request completed 
- - **30 October 2024:** - 
+ - **30 October 2024:** - Blockchain
  - **31 October 2024:** - 
  - **1 November 2024:** - 
  - **2 November 2024:** - 
