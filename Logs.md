@@ -439,7 +439,7 @@ in ios
  - **30 October 2024:** - Blockchain
  - **31 October 2024:** -  blockchain 
  - **1 November 2024:** - blockchain 
- - **2 November 2024:** - 
+ - **2 November 2024:** - blockchain 
  - **3 November 2024:** - 
  - **4 November 2024:** - 
  - **5 November 2024:** - 
