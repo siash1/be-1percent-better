@@ -441,7 +441,7 @@ in ios
  - **1 November 2024:** - blockchain 
  - **2 November 2024:** - blockchain 
  - **3 November 2024:** - blockchain 
- - **4 November 2024:** - 
+ - **4 November 2024:** - blockchain 
  - **5 November 2024:** - 
  - **6 November 2024:** - 
  - **7 November 2024:** - 
