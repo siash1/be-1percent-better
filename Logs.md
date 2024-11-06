@@ -443,7 +443,7 @@ in ios
  - **3 November 2024:** - blockchain 
  - **4 November 2024:** - blockchain 
  - **5 November 2024:** - blockchain 
- - **6 November 2024:** - 
+ - **6 November 2024:** - blockchain 
  - **7 November 2024:** - 
  - **8 November 2024:** - 
  - **9 November 2024:** - 
