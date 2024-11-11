@@ -448,6 +448,5 @@ in ios
  - **8 November 2024:** - blockchain 
  - **9 November 2024:** - break 
  - **10 November 2024:** - getting ready for devcon event 
-
-
+- **11 November 2024:** - break ✈️
 
