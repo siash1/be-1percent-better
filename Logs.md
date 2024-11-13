@@ -450,4 +450,5 @@ in ios
  - **10 November 2024:** - getting ready for devcon event 
 - **11 November 2024:** - break ✈️
 - at event
+- event
 
