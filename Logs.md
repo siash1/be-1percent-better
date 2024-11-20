@@ -449,13 +449,45 @@ in ios
  - **9 November 2024:** - break 
  - **10 November 2024:** - getting ready for devcon event 
 - **11 November 2024:** - break ✈️
-- at event
-- event
-- event
-- event
-- event
-- event
-- event
-- back from event
+- **12 November 2024:** - at event
+- **13 November 2024:** - event
+- **14 November 2024:** - event
+- **15 November 2024:** - event
+- **16 November 2024:** - event
+- **17 November 2024:** - event
+- **18 November 2024:** - event
+- **19 November 2024:** - back from event
+- **20 November 2024:** - database work for GME
+- **21 November 2024:** - 
+- **22 November 2024:** - 
+- **23 November 2024:** - 
+- **24 November 2024:** - 
+- **25 November 2024:** - 
+- **26 November 2024:** - 
+- **27 November 2024:** - 
+- **28 November 2024:** - 
+- **29 November 2024:** - 
+- **30 November 2024:** - 
+- **1 December 2024:** - 
+- **2 December 2024:** - 
+- **3 December 2024:** - 
+- **4 December 2024:** - 
+- **5 December 2024:** - 
+- **6 December 2024:** - 
+- **7 December 2024:** - 
+- **8 December 2024:** - 
+- **9 December 2024:** - 
+- **10 December 2024:** - 
+- **11 December 2024:** - 
+- **12 December 2024:** - 
+- **13 December 2024:** - 
+- **14 December 2024:** - 
+- **15 December 2024:** - 
+- **16 December 2024:** - 
+- **17 December 2024:** - 
+- **18 December 2024:** - 
+- **19 December 2024:** - 
+- **20 December 2024:** - 
+- **21 December 2024:** - 
 
 
