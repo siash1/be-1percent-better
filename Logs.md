@@ -459,8 +459,8 @@ in ios
 - **19 November 2024:** - back from event
 - **20 November 2024:** - database work for GME
 - **21 November 2024:** - started cs50
-- **22 November 2024:** - darabase for GME
-- **23 November 2024:** - 
+- **22 November 2024:** - database for GME
+- **23 November 2024:** - cs50
 - **24 November 2024:** - 
 - **25 November 2024:** - 
 - **26 November 2024:** - 
