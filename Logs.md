@@ -461,7 +461,7 @@ in ios
 - **21 November 2024:** - started cs50
 - **22 November 2024:** - database for GME
 - **23 November 2024:** - cs50
-- **24 November 2024:** - 
+- **24 November 2024:** - cs50
 - **25 November 2024:** - 
 - **26 November 2024:** - 
 - **27 November 2024:** - 
