@@ -463,7 +463,7 @@ in ios
 - **23 November 2024:** - cs50
 - **24 November 2024:** - cs50
 - **25 November 2024:** - cs50
-- **26 November 2024:** - 
+- **26 November 2024:** - cs50
 - **27 November 2024:** - 
 - **28 November 2024:** - 
 - **29 November 2024:** - 
