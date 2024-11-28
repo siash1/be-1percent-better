@@ -465,7 +465,7 @@ in ios
 - **25 November 2024:** - cs50
 - **26 November 2024:** - cs50
 - **27 November 2024:** - break 
-- **28 November 2024:** - 
+- **28 November 2024:** - cs50
 - **29 November 2024:** - 
 - **30 November 2024:** - 
 - **1 December 2024:** - 
