@@ -468,7 +468,7 @@ in ios
 - **28 November 2024:** - cs50
 - **29 November 2024:** - database for GME
 - **30 November 2024:** - database capture and lambda get method for it
-- **1 December 2024:** - 
+- **1 December 2024:** - cs50
 - **2 December 2024:** - 
 - **3 December 2024:** - 
 - **4 December 2024:** - 
