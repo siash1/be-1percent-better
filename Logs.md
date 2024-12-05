@@ -472,7 +472,7 @@ in ios
 - **2 December 2024:** - cs50
 - **3 December 2024:** - api for ticket 
 - **4 December 2024:** - api for ticket and show the data on Aic
-- **5 December 2024:** - 
+- **5 December 2024:** - changes in frontend and testing 
 - **6 December 2024:** - 
 - **7 December 2024:** - 
 - **8 December 2024:** - 
