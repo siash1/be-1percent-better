@@ -476,7 +476,7 @@ in ios
 - **6 December 2024:** - created api and lambda
 - **7 December 2024:** - review tickets lambda
 - **8 December 2024:** - lambda to change status of ticket 
-- **9 December 2024:** - 
+- **9 December 2024:** - testing of app
 - **10 December 2024:** - 
 - **11 December 2024:** - 
 - **12 December 2024:** - 
