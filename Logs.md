@@ -477,7 +477,7 @@ in ios
 - **7 December 2024:** - review tickets lambda
 - **8 December 2024:** - lambda to change status of ticket 
 - **9 December 2024:** - testing of app
-- **10 December 2024:** - 
+- **10 December 2024:** - break
 - **11 December 2024:** - 
 - **12 December 2024:** - 
 - **13 December 2024:** - 
