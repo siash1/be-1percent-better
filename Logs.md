@@ -481,7 +481,7 @@ in ios
 - **11 December 2024:** - flutter installation 
 - **12 December 2024:** - learnd flutter and changes in Aic
 - **13 December 2024:** - flutter 
-- **14 December 2024:** - 
+- **14 December 2024:** - flutter 
 - **15 December 2024:** - 
 - **16 December 2024:** - 
 - **17 December 2024:** - 
