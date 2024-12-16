@@ -483,7 +483,7 @@ in ios
 - **13 December 2024:** - flutter 
 - **14 December 2024:** - flutter 
 - **15 December 2024:** - flutter 
-- **16 December 2024:** - 
+- **16 December 2024:** - flutter and planning logistics Integration 
 - **17 December 2024:** - 
 - **18 December 2024:** - 
 - **19 December 2024:** - 
