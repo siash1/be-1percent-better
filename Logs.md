@@ -485,7 +485,7 @@ in ios
 - **15 December 2024:** - flutter 
 - **16 December 2024:** - flutter and planning logistics Integration 
 - **17 December 2024:** - flutter and planning logistic integration 
-- **18 December 2024:** - 
+- **18 December 2024:** - logistic Integration with delhivery and shiprocket
 - **19 December 2024:** - 
 - **20 December 2024:** - 
 - **21 December 2024:** - 
