@@ -488,6 +488,6 @@ in ios
 - **18 December 2024:** - logistic Integration with delhivery and shiprocket
 - **19 December 2024:** - integration with Delhivery 
 - **20 December 2024:** - flutter setup and Integration with Delhivery 
-- **21 December 2024:** - 
+- **21 December 2024:** - flutter setup
 
 
