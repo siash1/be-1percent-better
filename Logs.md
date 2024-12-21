@@ -489,5 +489,46 @@ in ios
 - **19 December 2024:** - integration with Delhivery 
 - **20 December 2024:** - flutter setup and Integration with Delhivery 
 - **21 December 2024:** - flutter setup
+- **22 December 2024:** -
+- **23 December 2024:** -
+- **24 December 2024:** -
+- **25 December 2024:** -
+- **26 December 2024:** -
+- **27 December 2024:** -
+- **28 December 2024:** -
+- **29 December 2024:** -
+- **30 December 2024:** -
+- **31 December 2024:** -
+- **1 January 2025:** -
+- **2 January 2025:** -
+- **3 January 2025:** -
+- **4 January 2025:** -
+- **5 January 2025:** -
+- **6 January 2025:** -
+- **7 January 2025:** -
+- **8 January 2025:** -
+- **9 January 2025:** -
+- **10 January 2025:** -
+- **11 January 2025:** -
+- **12 January 2025:** -
+- **13 January 2025:** -
+- **14 January 2025:** -
+- **15 January 2025:** -
+- **16 January 2025:** -
+- **17 January 2025:** -
+- **18 January 2025:** -
+- **19 January 2025:** -
+- **20 January 2025:** -
+- **21 January 2025:** -
+- **22 January 2025:** -
+- **23 January 2025:** -
+- **24 January 2025:** -
+- **25 January 2025:** -
+- **26 January 2025:** -
+- **27 January 2025:** -
+- **28 January 2025:** -
+- **29 January 2025:** -
+- **30 January 2025:** -
+- **31 January 2025:** -
 
 
