@@ -489,7 +489,7 @@ in ios
 - **19 December 2024:** - integration with Delhivery 
 - **20 December 2024:** - flutter setup and Integration with Delhivery 
 - **21 December 2024:** - flutter setup
-- **22 December 2024:** -
+- **22 December 2024:** - flutter 
 - **23 December 2024:** -
 - **24 December 2024:** -
 - **25 December 2024:** -
