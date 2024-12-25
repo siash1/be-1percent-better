@@ -491,7 +491,7 @@ in ios
 - **21 December 2024:** - flutter setup
 - **22 December 2024:** - flutter 
 - **23 December 2024:** - flutter changes
-- **24 December 2024:** -
+- **24 December 2024:** - flutter
 - **25 December 2024:** -
 - **26 December 2024:** -
 - **27 December 2024:** -
