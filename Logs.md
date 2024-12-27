@@ -493,7 +493,7 @@ in ios
 - **23 December 2024:** - flutter changes
 - **24 December 2024:** - flutter
 - **25 December 2024:** - flutter
-- **26 December 2024:** -
+- **26 December 2024:** - flutter and close testing of app
 - **27 December 2024:** -
 - **28 December 2024:** -
 - **29 December 2024:** -
