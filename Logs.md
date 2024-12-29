@@ -496,7 +496,7 @@ in ios
 - **26 December 2024:** - flutter and close testing of app
 - **27 December 2024:** - break
 - **28 December 2024:** - break
-- **29 December 2024:** -
+- **29 December 2024:** - break
 - **30 December 2024:** -
 - **31 December 2024:** -
 - **1 January 2025:** -
