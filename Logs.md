@@ -498,7 +498,7 @@ in ios
 - **28 December 2024:** - break
 - **29 December 2024:** - break
 - **30 December 2024:** - break
-- **31 December 2024:** -
+- **31 December 2024:** - break
 - **1 January 2025:** -
 - **2 January 2025:** -
 - **3 January 2025:** -
