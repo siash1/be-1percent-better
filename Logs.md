@@ -499,7 +499,7 @@ in ios
 - **29 December 2024:** - break
 - **30 December 2024:** - break
 - **31 December 2024:** - break
-- **1 January 2025:** -
+- **1 January 2025:** -  break
 - **2 January 2025:** -
 - **3 January 2025:** -
 - **4 January 2025:** -
