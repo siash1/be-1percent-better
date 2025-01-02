@@ -500,7 +500,7 @@ in ios
 - **30 December 2024:** - break
 - **31 December 2024:** - break
 - **1 January 2025:** -  break
-- **2 January 2025:** -
+- **2 January 2025:** - flutter and aic changes
 - **3 January 2025:** -
 - **4 January 2025:** -
 - **5 January 2025:** -
