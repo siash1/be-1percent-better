@@ -501,7 +501,7 @@ in ios
 - **31 December 2024:** - break
 - **1 January 2025:** -  break
 - **2 January 2025:** - flutter and aic changes
-- **3 January 2025:** -
+- **3 January 2025:** - setup amplify cognito for flutter
 - **4 January 2025:** -
 - **5 January 2025:** -
 - **6 January 2025:** -
