@@ -502,7 +502,7 @@ in ios
 - **1 January 2025:** -  break
 - **2 January 2025:** - flutter and aic changes
 - **3 January 2025:** - setup amplify cognito for flutter
-- **4 January 2025:** -
+- **4 January 2025:** - login and signup done
 - **5 January 2025:** -
 - **6 January 2025:** -
 - **7 January 2025:** -
