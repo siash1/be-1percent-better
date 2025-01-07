@@ -505,7 +505,7 @@ in ios
 - **4 January 2025:** - login and signup done
 - **5 January 2025:** - flutter
 - **6 January 2025:** - changes in AIC
-- **7 January 2025:** -
+- **7 January 2025:** - app forgot password setup
 - **8 January 2025:** -
 - **9 January 2025:** -
 - **10 January 2025:** -
