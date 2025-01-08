@@ -506,7 +506,7 @@ in ios
 - **5 January 2025:** - flutter
 - **6 January 2025:** - changes in AIC
 - **7 January 2025:** - app forgot password setup
-- **8 January 2025:** -
+- **8 January 2025:** - detection model Integration with flutter
 - **9 January 2025:** -
 - **10 January 2025:** -
 - **11 January 2025:** -
