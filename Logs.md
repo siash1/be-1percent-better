@@ -507,7 +507,7 @@ in ios
 - **6 January 2025:** - changes in AIC
 - **7 January 2025:** - app forgot password setup
 - **8 January 2025:** - detection model Integration with flutter
-- **9 January 2025:** -
+- **9 January 2025:** - QR code app design
 - **10 January 2025:** -
 - **11 January 2025:** -
 - **12 January 2025:** -
