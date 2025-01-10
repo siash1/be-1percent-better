@@ -508,7 +508,7 @@ in ios
 - **7 January 2025:** - app forgot password setup
 - **8 January 2025:** - detection model Integration with flutter
 - **9 January 2025:** - QR code app design
-- **10 January 2025:** -
+- **10 January 2025:** - consumer app building 
 - **11 January 2025:** -
 - **12 January 2025:** -
 - **13 January 2025:** -
