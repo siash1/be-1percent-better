@@ -509,7 +509,7 @@ in ios
 - **8 January 2025:** - detection model Integration with flutter
 - **9 January 2025:** - QR code app design
 - **10 January 2025:** - consumer app building 
-- **11 January 2025:** -
+- **11 January 2025:** - college assignment 
 - **12 January 2025:** -
 - **13 January 2025:** -
 - **14 January 2025:** -
