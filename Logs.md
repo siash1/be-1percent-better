@@ -510,7 +510,7 @@ in ios
 - **9 January 2025:** - QR code app design
 - **10 January 2025:** - consumer app building 
 - **11 January 2025:** - college assignment 
-- **12 January 2025:** -
+- **12 January 2025:** - assignment 
 - **13 January 2025:** -
 - **14 January 2025:** -
 - **15 January 2025:** -
