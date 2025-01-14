@@ -512,7 +512,7 @@ in ios
 - **11 January 2025:** - college assignment 
 - **12 January 2025:** - assignment 
 - **13 January 2025:** - QR detection model with google ml
-- **14 January 2025:** -
+- **14 January 2025:** - consumer app design changes 
 - **15 January 2025:** -
 - **16 January 2025:** -
 - **17 January 2025:** -
