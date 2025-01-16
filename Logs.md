@@ -514,7 +514,7 @@ in ios
 - **13 January 2025:** - QR detection model with google ml
 - **14 January 2025:** - consumer app design changes 
 - **15 January 2025:** - consumer app design
-- **16 January 2025:** -
+- **16 January 2025:** - connected app with model
 - **17 January 2025:** -
 - **18 January 2025:** -
 - **19 January 2025:** -
