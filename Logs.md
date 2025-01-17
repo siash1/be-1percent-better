@@ -515,7 +515,7 @@ in ios
 - **14 January 2025:** - consumer app design changes 
 - **15 January 2025:** - consumer app design
 - **16 January 2025:** - connected app with model
-- **17 January 2025:** -
+- **17 January 2025:** - changes design in app
 - **18 January 2025:** -
 - **19 January 2025:** -
 - **20 January 2025:** -
