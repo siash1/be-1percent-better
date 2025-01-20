@@ -518,7 +518,7 @@ in ios
 - **17 January 2025:** - changes design in app
 - **18 January 2025:** - cs50
 - **19 January 2025:** - break
-- **20 January 2025:** -
+- **20 January 2025:** - integrated with lambda for future version control in the app
 - **21 January 2025:** -
 - **22 January 2025:** -
 - **23 January 2025:** -
