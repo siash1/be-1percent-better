@@ -519,7 +519,7 @@ in ios
 - **18 January 2025:** - cs50
 - **19 January 2025:** - break
 - **20 January 2025:** - integrated with lambda for future version control in the app
-- **21 January 2025:** -
+- **21 January 2025:** - app optimization 
 - **22 January 2025:** -
 - **23 January 2025:** -
 - **24 January 2025:** -
