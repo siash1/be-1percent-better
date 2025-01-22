@@ -520,7 +520,7 @@ in ios
 - **19 January 2025:** - break
 - **20 January 2025:** - integrated with lambda for future version control in the app
 - **21 January 2025:** - app optimization 
-- **22 January 2025:** -
+- **22 January 2025:** - new website and app changes for link
 - **23 January 2025:** -
 - **24 January 2025:** -
 - **25 January 2025:** -
