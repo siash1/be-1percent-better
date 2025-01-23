@@ -521,7 +521,7 @@ in ios
 - **20 January 2025:** - integrated with lambda for future version control in the app
 - **21 January 2025:** - app optimization 
 - **22 January 2025:** - new website and app changes for link
-- **23 January 2025:** -
+- **23 January 2025:** - new website created and launched
 - **24 January 2025:** -
 - **25 January 2025:** -
 - **26 January 2025:** -
