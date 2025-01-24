@@ -522,7 +522,7 @@ in ios
 - **21 January 2025:** - app optimization 
 - **22 January 2025:** - new website and app changes for link
 - **23 January 2025:** - new website created and launched
-- **24 January 2025:** -
+- **24 January 2025:** - break
 - **25 January 2025:** -
 - **26 January 2025:** -
 - **27 January 2025:** -
