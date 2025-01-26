@@ -524,7 +524,7 @@ in ios
 - **23 January 2025:** - new website created and launched
 - **24 January 2025:** - break
 - **25 January 2025:** - cs50
-- **26 January 2025:** -
+- **26 January 2025:** - cs50
 - **27 January 2025:** -
 - **28 January 2025:** -
 - **29 January 2025:** -
