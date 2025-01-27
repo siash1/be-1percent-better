@@ -525,7 +525,7 @@ in ios
 - **24 January 2025:** - break
 - **25 January 2025:** - cs50
 - **26 January 2025:** - cs50
-- **27 January 2025:** -
+- **27 January 2025:** - frontend changes in consumer app and deployed android app on play store
 - **28 January 2025:** -
 - **29 January 2025:** -
 - **30 January 2025:** -
