@@ -529,6 +529,6 @@ in ios
 - **28 January 2025:** - frontend changes for consumer app
 - **29 January 2025:** - published app on play store and revision for interview(js)
 - **30 January 2025:** - javascript and react revision 
-- **31 January 2025:** -
+- **31 January 2025:** - break 
 
 
