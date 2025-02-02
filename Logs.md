@@ -531,5 +531,33 @@ in ios
 - **30 January 2025:** - javascript and react revision 
 - **31 January 2025:** - break
 - **01 February 2025:** - break
+- **02 February 2025:** - LAST BREAK
+- **03 February 2025:** - 
+- **04 February 2025:** - 
+- **05 February 2025:** - 
+- **06 February 2025:** - 
+- **07 February 2025:** - 
+- **08 February 2025:** - 
+- **09 February 2025:** - 
+- **10 February 2025:** - 
+- **11 February 2025:** - 
+- **12 February 2025:** - 
+- **13 February 2025:** - 
+- **14 February 2025:** - 
+- **15 February 2025:** - 
+- **16 February 2025:** - 
+- **17 February 2025:** - 
+- **18 February 2025:** - 
+- **19 February 2025:** - 
+- **20 February 2025:** - 
+- **21 February 2025:** - 
+- **22 February 2025:** - 
+- **23 February 2025:** - 
+- **24 February 2025:** - 
+- **25 February 2025:** - 
+- **26 February 2025:** - 
+- **27 February 2025:** - 
+- **28 February 2025:** - 
+
 
 
