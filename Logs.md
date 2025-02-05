@@ -534,7 +534,7 @@ in ios
 - **02 February 2025:** - LAST BREAK
 - **03 February 2025:** - Posting and retrieving data from Form page
 - **04 February 2025:** - image converted to base64 for model 
-- **05 February 2025:** - 
+- **05 February 2025:** - AWS SQS 
 - **06 February 2025:** - 
 - **07 February 2025:** - 
 - **08 February 2025:** - 
