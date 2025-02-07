@@ -535,8 +535,8 @@ in ios
 - **03 February 2025:** - Posting and retrieving data from Form page
 - **04 February 2025:** - image converted to base64 for model 
 - **05 February 2025:** - AWS SQS 
-- **06 February 2025:** - 
-- **07 February 2025:** - 
+- **06 February 2025:** - Comsumer app from scratch 
+- **07 February 2025:** - Consumer app context api
 - **08 February 2025:** - 
 - **09 February 2025:** - 
 - **10 February 2025:** - 
