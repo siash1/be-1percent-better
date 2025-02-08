@@ -537,7 +537,7 @@ in ios
 - **05 February 2025:** - AWS SQS 
 - **06 February 2025:** - Comsumer app from scratch 
 - **07 February 2025:** - Consumer app context api
-- **08 February 2025:** - 
+- **08 February 2025:** - js basics
 - **09 February 2025:** - 
 - **10 February 2025:** - 
 - **11 February 2025:** - 
