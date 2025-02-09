@@ -538,7 +538,7 @@ in ios
 - **06 February 2025:** - Comsumer app from scratch 
 - **07 February 2025:** - Consumer app context api
 - **08 February 2025:** - js basics
-- **09 February 2025:** - 
+- **09 February 2025:** - js
 - **10 February 2025:** - 
 - **11 February 2025:** - 
 - **12 February 2025:** - 
