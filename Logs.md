@@ -541,7 +541,7 @@ in ios
 - **09 February 2025:** - js
 - **10 February 2025:** - consumer app
 - **11 February 2025:** - consumer app and exam
-- **12 February 2025:** - 
+- **12 February 2025:** - consumer app
 - **13 February 2025:** - 
 - **14 February 2025:** - 
 - **15 February 2025:** - 
