@@ -544,7 +544,7 @@ in ios
 - **12 February 2025:** - consumer app
 - **13 February 2025:** - consumer app and arvo consumer app
 - **14 February 2025:** - consumer app
-- **15 February 2025:** - 
+- **15 February 2025:** - break 
 - **16 February 2025:** - 
 - **17 February 2025:** - 
 - **18 February 2025:** - 
