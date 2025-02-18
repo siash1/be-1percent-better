@@ -547,7 +547,7 @@ in ios
 - **15 February 2025:** - break 
 - **16 February 2025:** - network security and cryptography exam
 - **17 February 2025:** - aic and consumer app
-- **18 February 2025:** - 
+- **18 February 2025:** - AIC and consumer app
 - **19 February 2025:** - 
 - **20 February 2025:** - 
 - **21 February 2025:** - 
