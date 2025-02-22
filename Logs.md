@@ -550,7 +550,7 @@ in ios
 - **18 February 2025:** - AIC and consumer app
 - **19 February 2025:** - SQS
 - **20 February 2025:** - cs50
-- **21 February 2025:** - 
+- **21 February 2025:** - cs50
 - **22 February 2025:** - 
 - **23 February 2025:** - 
 - **24 February 2025:** - 
