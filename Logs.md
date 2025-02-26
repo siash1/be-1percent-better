@@ -555,7 +555,7 @@ in ios
 - **23 February 2025:** - AIC V2 Add Product ft
 - **24 February 2025:** - AIC V2
 - **25 February 2025:** - AIC V2 and js
-- **26 February 2025:** - 
+- **26 February 2025:** - js hoisting and revision 
 - **27 February 2025:** - 
 - **28 February 2025:** - 
 
