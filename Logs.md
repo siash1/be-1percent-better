@@ -553,8 +553,8 @@ in ios
 - **21 February 2025:** - cs50
 - **22 February 2025:** - cs50
 - **23 February 2025:** - AIC V2 Add Product ft
-- **24 February 2025:** - 
-- **25 February 2025:** - 
+- **24 February 2025:** - AIC V2
+- **25 February 2025:** - AIC V2 and js
 - **26 February 2025:** - 
 - **27 February 2025:** - 
 - **28 February 2025:** - 
