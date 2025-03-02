@@ -1,5 +1,5 @@
 # This is where I'll be entering logs on daily basis and be consistent 🤖
-- **01 March 2025:** - break
+- **01 March 2025:** - break 
 - **02 March 2025:** - break
 - **03 March 2025:** - break
 - **04 March 2025:** - 
