@@ -4,7 +4,7 @@
 - **03 March 2025:** - break. 
 - **04 March 2025:** - break 
 - **05 March 2025:** - AIC V2 product add
-- **06 March 2025:** - 
+- **06 March 2025:** - AIC V2
 - **07 March 2025:** - 
 - **08 March 2025:** - 
 - **09 March 2025:** - 
