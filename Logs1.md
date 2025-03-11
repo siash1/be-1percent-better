@@ -9,7 +9,7 @@
 - **08 March 2025:** - break
 - **09 March 2025:** - consumer app
 - **10 March 2025:** - AIC V2
-- **11 March 2025:** - 
+- **11 March 2025:** - AIC V2 and consumer app
 - **12 March 2025:** - 
 - **13 March 2025:** - 
 - **14 March 2025:** - 
