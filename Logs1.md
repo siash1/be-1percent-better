@@ -15,7 +15,7 @@
 - **14 March 2025:** - js 
 - **15 March 2025:** - js 
 - **16 March 2025:** - js
-- **17 March 2025:** - 
+- **17 March 2025:** - lambda for consumer app
 - **18 March 2025:** - 
 - **19 March 2025:** - 
 - **20 March 2025:** - 
