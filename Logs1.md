@@ -18,4 +18,4 @@
 - **17 March 2025:** - lambda for consumer app
 - **18 March 2025:** - connection consumer app with lambda for scanning 
 - **19 March 2025:** - decryption for url and scanning for consumer app
-- **20 March 2025:** - 
+- **20 March 2025:** - drag and drop in add product 
