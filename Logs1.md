@@ -19,3 +19,44 @@
 - **18 March 2025:** - connection consumer app with lambda for scanning 
 - **19 March 2025:** - decryption for url and scanning for consumer app
 - **20 March 2025:** - drag and drop in add product 
+- **21 March 2025:** - js
+- **22 March 2025:** -
+- **23 March 2025:** -
+- **24 March 2025:** -
+- **25 March 2025:** -
+- **26 March 2025:** -
+- **27 March 2025:** -
+- **28 March 2025:** -
+- **29 March 2025:** -
+- **30 March 2025:** -
+- **31 March 2025:** -
+- **1 April 2025:** -
+- **2 April 2025:** -
+- **3 April 2025:** -
+- **4 April 2025:** -
+- **5 April 2025:** -
+- **6 April 2025:** -
+- **7 April 2025:** -
+- **8 April 2025:** -
+- **9 April 2025:** -
+- **10 April 2025:** -
+- **11 April 2025:** -
+- **12 April 2025:** -
+- **13 April 2025:** -
+- **14 April 2025:** -
+- **15 April 2025:** -
+- **16 April 2025:** -
+- **17 April 2025:** -
+- **18 April 2025:** -
+- **19 April 2025:** -
+- **20 April 2025:** -
+- **21 April 2025:** -
+- **22 April 2025:** -
+- **23 April 2025:** -
+- **24 April 2025:** -
+- **25 April 2025:** -
+- **26 April 2025:** -
+- **27 April 2025:** -
+- **28 April 2025:** -
+- **29 April 2025:** -
+- **30 April 2025:** -
