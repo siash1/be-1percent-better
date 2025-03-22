@@ -20,7 +20,7 @@
 - **19 March 2025:** - decryption for url and scanning for consumer app
 - **20 March 2025:** - drag and drop in add product 
 - **21 March 2025:** - js
-- **22 March 2025:** -
+- **22 March 2025:** - js
 - **23 March 2025:** -
 - **24 March 2025:** -
 - **25 March 2025:** -
