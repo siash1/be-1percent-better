@@ -22,7 +22,7 @@
 - **21 March 2025:** - js
 - **22 March 2025:** - js
 - **23 March 2025:** - js
-- **24 March 2025:** -
+- **24 March 2025:** - AIC V2 and consumer app
 - **25 March 2025:** -
 - **26 March 2025:** -
 - **27 March 2025:** -
