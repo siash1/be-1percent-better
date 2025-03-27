@@ -25,7 +25,7 @@
 - **24 March 2025:** - AIC V2 and consumer app
 - **25 March 2025:** - consumer V2 - making dynamic url to fetch data and storr scan session 
 - **26 March 2025:** - brandid ans brand name saved in scans
-- **27 March 2025:** -
+- **27 March 2025:** - scans get req api
 - **28 March 2025:** -
 - **29 March 2025:** -
 - **30 March 2025:** -
