@@ -26,7 +26,7 @@
 - **25 March 2025:** - consumer V2 - making dynamic url to fetch data and storr scan session 
 - **26 March 2025:** - brandid ans brand name saved in scans
 - **27 March 2025:** - scans get req api
-- **28 March 2025:** -
+- **28 March 2025:** - edit product page 
 - **29 March 2025:** -
 - **30 March 2025:** -
 - **31 March 2025:** -
