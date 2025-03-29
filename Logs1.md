@@ -27,7 +27,7 @@
 - **26 March 2025:** - brandid ans brand name saved in scans
 - **27 March 2025:** - scans get req api
 - **28 March 2025:** - edit product page 
-- **29 March 2025:** -
+- **29 March 2025:** - js
 - **30 March 2025:** -
 - **31 March 2025:** -
 - **1 April 2025:** -
