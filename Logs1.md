@@ -28,7 +28,7 @@
 - **27 March 2025:** - scans get req api
 - **28 March 2025:** - edit product page 
 - **29 March 2025:** - js
-- **30 March 2025:** -
+- **30 March 2025:** - changes for AIC V2
 - **31 March 2025:** -
 - **1 April 2025:** -
 - **2 April 2025:** -
