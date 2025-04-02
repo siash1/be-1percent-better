@@ -31,7 +31,7 @@
 - **30 March 2025:** - changes for AIC V2
 - **31 March 2025:** - changes for AIC 
 - **1 April 2025:** - Add review feature
-- **2 April 2025:** -
+- **2 April 2025:** - Counterfeit scans 
 - **3 April 2025:** -
 - **4 April 2025:** -
 - **5 April 2025:** -
