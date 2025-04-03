@@ -32,7 +32,7 @@
 - **31 March 2025:** - changes for AIC 
 - **1 April 2025:** - Add review feature
 - **2 April 2025:** - Counterfeit scans 
-- **3 April 2025:** -
+- **3 April 2025:** - filter data in dashboard
 - **4 April 2025:** -
 - **5 April 2025:** -
 - **6 April 2025:** -
