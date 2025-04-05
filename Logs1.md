@@ -34,7 +34,7 @@
 - **2 April 2025:** - Counterfeit scans 
 - **3 April 2025:** - filter data in dashboard
 - **4 April 2025:** - filter and ui changes in aic v2
-- **5 April 2025:** -
+- **5 April 2025:** - js
 - **6 April 2025:** -
 - **7 April 2025:** -
 - **8 April 2025:** -
