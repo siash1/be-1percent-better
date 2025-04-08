@@ -36,8 +36,8 @@
 - **4 April 2025:** - filter and ui changes in aic v2
 - **5 April 2025:** - js
 - **6 April 2025:** - js
-- **7 April 2025:** - printer integration with node js
-- **8 April 2025:** -
+- **7 April 2025:** - traceability code 
+- **8 April 2025:** -printer integration with node js
 - **9 April 2025:** -
 - **10 April 2025:** -
 - **11 April 2025:** -
