@@ -38,7 +38,7 @@
 - **6 April 2025:** - js
 - **7 April 2025:** - traceability code 
 - **8 April 2025:** -printer integration with node js
-- **9 April 2025:** -
+- **9 April 2025:** - printer integration 
 - **10 April 2025:** -
 - **11 April 2025:** -
 - **12 April 2025:** -
