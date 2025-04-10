@@ -39,7 +39,7 @@
 - **7 April 2025:** - traceability code 
 - **8 April 2025:** -printer integration with node js
 - **9 April 2025:** - printer integration 
-- **10 April 2025:** -
+- **10 April 2025:** - traceability integration in aic v2
 - **11 April 2025:** -
 - **12 April 2025:** -
 - **13 April 2025:** -
