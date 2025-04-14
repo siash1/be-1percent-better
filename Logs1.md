@@ -40,10 +40,10 @@
 - **8 April 2025:** -printer integration with node js
 - **9 April 2025:** - printer integration 
 - **10 April 2025:** - traceability integration in aic v2
-- **11 April 2025:** -
-- **12 April 2025:** -
-- **13 April 2025:** -
-- **14 April 2025:** -
+- **11 April 2025:** - Traceability 
+- **12 April 2025:** - cs50
+- **13 April 2025:** - cs50
+- **14 April 2025:** - traceability ui
 - **15 April 2025:** -
 - **16 April 2025:** -
 - **17 April 2025:** -
