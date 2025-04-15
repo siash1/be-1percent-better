@@ -44,7 +44,7 @@
 - **12 April 2025:** - cs50
 - **13 April 2025:** - cs50
 - **14 April 2025:** - traceability ui
-- **15 April 2025:** -
+- **15 April 2025:** - traceability lambda
 - **16 April 2025:** -
 - **17 April 2025:** -
 - **18 April 2025:** -
