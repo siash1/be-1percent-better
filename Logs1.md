@@ -46,7 +46,7 @@
 - **14 April 2025:** - traceability ui
 - **15 April 2025:** - traceability lambda
 - **16 April 2025:** - Traceability Integrated in aic v2
-- **17 April 2025:** -
+- **17 April 2025:** - traceability done
 - **18 April 2025:** -
 - **19 April 2025:** -
 - **20 April 2025:** -
