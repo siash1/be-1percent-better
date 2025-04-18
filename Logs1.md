@@ -47,7 +47,7 @@
 - **15 April 2025:** - traceability lambda
 - **16 April 2025:** - Traceability Integrated in aic v2
 - **17 April 2025:** - traceability done
-- **18 April 2025:** -
+- **18 April 2025:** - cs50
 - **19 April 2025:** -
 - **20 April 2025:** -
 - **21 April 2025:** -
