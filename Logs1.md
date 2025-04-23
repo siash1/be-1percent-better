@@ -52,7 +52,7 @@
 - **20 April 2025:** - cs50
 - **21 April 2025:** - Traceability 
 - **22 April 2025:** - JWT expiry token 
-- **23 April 2025:** -
+- **23 April 2025:** - AIC V2 changes 
 - **24 April 2025:** -
 - **25 April 2025:** -
 - **26 April 2025:** -
