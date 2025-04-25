@@ -54,7 +54,7 @@
 - **22 April 2025:** - JWT expiry token 
 - **23 April 2025:** - AIC V2 changes 
 - **24 April 2025:** - AIC changes
-- **25 April 2025:** -
+- **25 April 2025:** - AIC Changes
 - **26 April 2025:** -
 - **27 April 2025:** -
 - **28 April 2025:** -
