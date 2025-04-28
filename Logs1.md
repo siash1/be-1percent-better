@@ -56,7 +56,7 @@
 - **24 April 2025:** - AIC changes
 - **25 April 2025:** - AIC Changes
 - **26 April 2025:** - ML test
-- **27 April 2025:** -
-- **28 April 2025:** -
+- **27 April 2025:** - cs50
+- **28 April 2025:** - aic changes
 - **29 April 2025:** -
 - **30 April 2025:** -
