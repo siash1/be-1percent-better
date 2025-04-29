@@ -58,5 +58,5 @@
 - **26 April 2025:** - ML test
 - **27 April 2025:** - cs50
 - **28 April 2025:** - aic changes
-- **29 April 2025:** -
+- **29 April 2025:** - Admin dynamic scans
 - **30 April 2025:** -
