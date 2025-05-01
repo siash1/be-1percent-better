@@ -60,3 +60,4 @@
 - **28 April 2025:** - aic changes
 - **29 April 2025:** - Admin dynamic scans
 - **30 April 2025:** - Aic v2 changes 
+- **1 May 2025:** - Aic v2 changes 
