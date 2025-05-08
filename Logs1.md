@@ -67,7 +67,7 @@
 - **5 May 2025:** - cs50
 - **6 May 2025:** - Aic admin changes 
 - **7 May 2025:** - Aic admin changes 
-- **8 May 2025:** - 
+- **8 May 2025:** - AIC admin changes and subscription model
 - **9 May 2025:** - 
 - **10 May 2025:** - 
 - **11 May 2025:** - 
