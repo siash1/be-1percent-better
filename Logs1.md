@@ -68,7 +68,7 @@
 - **6 May 2025:** - Aic admin changes 
 - **7 May 2025:** - Aic admin changes 
 - **8 May 2025:** - AIC admin changes and subscription model
-- **9 May 2025:** - 
+- **9 May 2025:** - Subscription model architecture design and dybami db theory
 - **10 May 2025:** - 
 - **11 May 2025:** - 
 - **12 May 2025:** - 
