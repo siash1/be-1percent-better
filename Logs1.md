@@ -70,7 +70,7 @@
 - **8 May 2025:** - AIC admin changes and subscription model
 - **9 May 2025:** - Subscription model architecture design and dybami db theory
 - **10 May 2025:** - subscription model architecture, how to draw diagrams
-- **11 May 2025:** - 
+- **11 May 2025:** - freecodecamp excercise 
 - **12 May 2025:** - 
 - **13 May 2025:** - 
 - **14 May 2025:** - 
