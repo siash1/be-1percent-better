@@ -73,7 +73,7 @@
 - **11 May 2025:** - freecodecamp excercise 
 - **12 May 2025:** - subscription model backend and freecodecamp
 - **13 May 2025:** - subscription Integration 
-- **14 May 2025:** - 
+- **14 May 2025:** - subscription integration 
 - **15 May 2025:** - 
 - **16 May 2025:** - 
 - **17 May 2025:** - 
