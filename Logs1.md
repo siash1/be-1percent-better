@@ -76,7 +76,7 @@
 - **14 May 2025:** - subscription integration 
 - **15 May 2025:** - subscription model
 - **16 May 2025:** - subscription model
-- **17 May 2025:** - 
+- **17 May 2025:** - subscription model
 - **18 May 2025:** - 
 - **19 May 2025:** - 
 - **20 May 2025:** - 
