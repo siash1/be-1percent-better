@@ -77,7 +77,7 @@
 - **15 May 2025:** - subscription model
 - **16 May 2025:** - subscription model
 - **17 May 2025:** - subscription model
-- **18 May 2025:** - 
+- **18 May 2025:** - freecodecamp
 - **19 May 2025:** - 
 - **20 May 2025:** - 
 - **21 May 2025:** - 
