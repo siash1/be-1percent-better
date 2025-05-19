@@ -78,7 +78,7 @@
 - **16 May 2025:** - subscription model
 - **17 May 2025:** - subscription model
 - **18 May 2025:** - freecodecamp
-- **19 May 2025:** - 
+- **19 May 2025:** - subscription model and arvo app publish
 - **20 May 2025:** - 
 - **21 May 2025:** - 
 - **22 May 2025:** - 
