@@ -80,7 +80,7 @@
 - **18 May 2025:** - freecodecamp
 - **19 May 2025:** - subscription model and arvo app publish
 - **20 May 2025:** - traceability planning 
-- **21 May 2025:** - 
+- **21 May 2025:** - traceability planning 
 - **22 May 2025:** - 
 - **23 May 2025:** - 
 - **24 May 2025:** - 
