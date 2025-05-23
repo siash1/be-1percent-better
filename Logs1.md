@@ -82,7 +82,7 @@
 - **20 May 2025:** - traceability planning 
 - **21 May 2025:** - traceability planning 
 - **22 May 2025:** - traceability planning 
-- **23 May 2025:** - 
+- **23 May 2025:** - traceability eith Blockchain planning 
 - **24 May 2025:** - 
 - **25 May 2025:** - 
 - **26 May 2025:** - 
