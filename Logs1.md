@@ -84,7 +84,7 @@
 - **22 May 2025:** - traceability planning 
 - **23 May 2025:** - traceability eith Blockchain planning 
 - **24 May 2025:** - traceability storyline 
-- **25 May 2025:** - 
+- **25 May 2025:** - traceability architecture designing 
 - **26 May 2025:** - 
 - **27 May 2025:** - 
 - **28 May 2025:** - 
