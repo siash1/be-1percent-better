@@ -87,7 +87,7 @@
 - **25 May 2025:** - traceability architecture designing 
 - **26 May 2025:** - finalized traceability solution with  doc
 - **27 May 2025:** - traceability mockup 
-- **28 May 2025:** - 
+- **28 May 2025:** - traceability mockup
 - **29 May 2025:** - 
 - **30 May 2025:** - 
 - **31 May 2025:** - 
