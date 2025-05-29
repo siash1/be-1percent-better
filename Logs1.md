@@ -88,7 +88,7 @@
 - **26 May 2025:** - finalized traceability solution with  doc
 - **27 May 2025:** - traceability mockup 
 - **28 May 2025:** - traceability mockup
-- **29 May 2025:** - 
+- **29 May 2025:** - traceability mobile app mockup
 - **30 May 2025:** - 
 - **31 May 2025:** - 
 - **1 June 2025:** - 
