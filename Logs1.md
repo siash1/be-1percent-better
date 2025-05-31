@@ -90,7 +90,7 @@
 - **28 May 2025:** - traceability mockup
 - **29 May 2025:** - traceability mobile app mockup
 - **30 May 2025:** - college assignments
-- **31 May 2025:** - 
+- **31 May 2025:** - traceability mockup 
 - **1 June 2025:** - 
 - **2 June 2025:** - 
 - **3 June 2025:** - 
