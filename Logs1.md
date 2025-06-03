@@ -92,8 +92,8 @@
 - **30 May 2025:** - college assignments
 - **31 May 2025:** - traceability mockup 
 - **1 June 2025:** - traceability mockup 
-- **2 June 2025:** - 
-- **3 June 2025:** - 
+- **2 June 2025:** - traceability mockup 
+- **3 June 2025:** - planning
 - **4 June 2025:** - 
 - **5 June 2025:** - 
 - **6 June 2025:** - 
