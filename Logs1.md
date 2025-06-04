@@ -94,7 +94,7 @@
 - **1 June 2025:** - traceability mockup 
 - **2 June 2025:** - traceability mockup 
 - **3 June 2025:** - planning
-- **4 June 2025:** - 
+- **4 June 2025:** - Traceability planning 
 - **5 June 2025:** - 
 - **6 June 2025:** - 
 - **7 June 2025:** - 
