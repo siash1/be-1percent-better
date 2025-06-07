@@ -97,7 +97,7 @@
 - **4 June 2025:** - Traceability planning 
 - **5 June 2025:** - Architecture planning and frontend review 
 - **6 June 2025:** -  critical changes in frontend 
-- **7 June 2025:** - 
+- **7 June 2025:** - changes in frontend 
 - **8 June 2025:** - 
 - **9 June 2025:** - 
 - **10 June 2025:** - 
