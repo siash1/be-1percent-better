@@ -98,7 +98,7 @@
 - **5 June 2025:** - Architecture planning and frontend review 
 - **6 June 2025:** -  critical changes in frontend 
 - **7 June 2025:** - changes in frontend 
-- **8 June 2025:** - 
+- **8 June 2025:** - break
 - **9 June 2025:** - 
 - **10 June 2025:** - 
 - **11 June 2025:** - 
