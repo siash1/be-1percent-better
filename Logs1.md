@@ -102,7 +102,7 @@
 - **9 June 2025:** - jwt amd csrf token validation 
 - **10 June 2025:** - frontend data secure fetch
 - **11 June 2025:** - router check 
-- **12 June 2025:** - 
+- **12 June 2025:** - traceability planning 
 - **13 June 2025:** - 
 - **14 June 2025:** - 
 - **15 June 2025:** - 
