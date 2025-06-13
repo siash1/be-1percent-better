@@ -103,7 +103,7 @@
 - **10 June 2025:** - frontend data secure fetch
 - **11 June 2025:** - router check 
 - **12 June 2025:** - traceability planning 
-- **13 June 2025:** - 
+- **13 June 2025:** - planning 
 - **14 June 2025:** - 
 - **15 June 2025:** - 
 - **16 June 2025:** - 
