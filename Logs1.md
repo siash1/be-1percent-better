@@ -104,7 +104,7 @@
 - **11 June 2025:** - router check 
 - **12 June 2025:** - traceability planning 
 - **13 June 2025:** - planning 
-- **14 June 2025:** - 
+- **14 June 2025:** - break
 - **15 June 2025:** - 
 - **16 June 2025:** - 
 - **17 June 2025:** - 
