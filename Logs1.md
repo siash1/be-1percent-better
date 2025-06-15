@@ -105,7 +105,7 @@
 - **12 June 2025:** - traceability planning 
 - **13 June 2025:** - planning 
 - **14 June 2025:** - break
-- **15 June 2025:** - 
+- **15 June 2025:** - VPC and networking 
 - **16 June 2025:** - 
 - **17 June 2025:** - 
 - **18 June 2025:** - 
