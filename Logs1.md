@@ -106,7 +106,7 @@
 - **13 June 2025:** - planning 
 - **14 June 2025:** - break
 - **15 June 2025:** - VPC and networking 
-- **16 June 2025:** - 
+- **16 June 2025:** - architecture diagram, VPC , NAT , INTERNET gateway 
 - **17 June 2025:** - 
 - **18 June 2025:** - 
 - **19 June 2025:** - 
