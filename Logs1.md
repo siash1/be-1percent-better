@@ -109,7 +109,7 @@
 - **16 June 2025:** - architecture diagram, VPC , NAT , INTERNET gateway 
 - **17 June 2025:** - planning 
 - **18 June 2025:** - VPC and db setup 
-- **19 June 2025:** - 
+- **19 June 2025:** - pg db connection 
 - **20 June 2025:** - 
 - **21 June 2025:** - 
 - **22 June 2025:** - 
