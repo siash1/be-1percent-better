@@ -111,7 +111,7 @@
 - **18 June 2025:** - VPC and db setup 
 - **19 June 2025:** - pg db connection 
 - **20 June 2025:** - break 
-- **21 June 2025:** - 
+- **21 June 2025:** - react and node test
 - **22 June 2025:** - 
 - **23 June 2025:** - 
 - **24 June 2025:** - 
