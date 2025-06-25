@@ -113,9 +113,9 @@
 - **20 June 2025:** - break 
 - **21 June 2025:** - react and node test
 - **22 June 2025:** - lambda for qr generator 
-- **23 June 2025:** - 
-- **24 June 2025:** - 
-- **25 June 2025:** - 
+- **23 June 2025:** - lambda testing 
+- **24 June 2025:** - lambda for product handler
+- **25 June 2025:** - taken interviews and api testing for lambda 
 - **26 June 2025:** - 
 - **27 June 2025:** - 
 - **28 June 2025:** - 
