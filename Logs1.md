@@ -116,7 +116,7 @@
 - **23 June 2025:** - lambda testing 
 - **24 June 2025:** - lambda for product handler
 - **25 June 2025:** - taken interviews and api testing for lambda 
-- **26 June 2025:** - 
+- **26 June 2025:** - api lambda for client user
 - **27 June 2025:** - 
 - **28 June 2025:** - 
 - **29 June 2025:** - 
