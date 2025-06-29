@@ -119,5 +119,5 @@
 - **26 June 2025:** - api lambda for client user
 - **27 June 2025:** - lambda for get user info 
 - **28 June 2025:** - DSA input output 
-- **29 June 2025:** - 
+- **29 June 2025:** - break 
 - **30 June 2025:** - 
