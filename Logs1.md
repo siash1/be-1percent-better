@@ -123,7 +123,7 @@
 - **30 June 2025:** - api test and test cases 
 - **1 July 2025:** - lambda testing 
 - **2 July 2025:** - lambda bug fix and testing 
-- **3 July 2025:** - 
+- **3 July 2025:** - frontend changes for new lambdas
 - **4 July 2025:** - 
 - **5 July 2025:** - 
 - **6 July 2025:** - 
