@@ -125,7 +125,7 @@
 - **2 July 2025:** - lambda bug fix and testing 
 - **3 July 2025:** - frontend changes for new lambdas
 - **4 July 2025:** - frontend changes 
-- **5 July 2025:** - 
+- **5 July 2025:** - fromtend changes
 - **6 July 2025:** - 
 - **7 July 2025:** - 
 - **8 July 2025:** - 
