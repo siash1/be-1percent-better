@@ -127,8 +127,8 @@
 - **4 July 2025:** - frontend changes 
 - **5 July 2025:** - frontend changes
 - **6 July 2025:** - break 
-- **7 July 2025:** - 
-- **8 July 2025:** - 
+- **7 July 2025:** - frontend change
+- **8 July 2025:** - frontend changes
 - **9 July 2025:** - 
 - **10 July 2025:** - 
 - **11 July 2025:** - 
