@@ -130,7 +130,7 @@
 - **7 July 2025:** - frontend change
 - **8 July 2025:** - frontend changes
 - **9 July 2025:** - frontend changes
-- **10 July 2025:** - 
+- **10 July 2025:** - next sprint planning 
 - **11 July 2025:** - 
 - **12 July 2025:** - 
 - **13 July 2025:** - 
