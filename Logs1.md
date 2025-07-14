@@ -134,7 +134,7 @@
 - **11 July 2025:** - demo page
 - **12 July 2025:** - frontend changes
 - **13 July 2025:** - break 
-- **14 July 2025:** - 
+- **14 July 2025:** - new consumer web app
 - **15 July 2025:** - 
 - **16 July 2025:** - 
 - **17 July 2025:** - 
