@@ -135,7 +135,7 @@
 - **12 July 2025:** - frontend changes
 - **13 July 2025:** - break 
 - **14 July 2025:** - new consumer web app
-- **15 July 2025:** - 
+- **15 July 2025:** - product add page 
 - **16 July 2025:** - 
 - **17 July 2025:** - 
 - **18 July 2025:** - 
