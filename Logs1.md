@@ -137,7 +137,7 @@
 - **14 July 2025:** - new consumer web app
 - **15 July 2025:** - product add page 
 - **16 July 2025:** - product add page
-- **17 July 2025:** - 
+- **17 July 2025:** - product edit page 
 - **18 July 2025:** - 
 - **19 July 2025:** - 
 - **20 July 2025:** - 
