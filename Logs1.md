@@ -139,7 +139,7 @@
 - **16 July 2025:** - product add page
 - **17 July 2025:** - product edit page 
 - **18 July 2025:** - frontend changes and gen qr multiple
-- **19 July 2025:** - 
+- **19 July 2025:** - dsa
 - **20 July 2025:** - 
 - **21 July 2025:** - 
 - **22 July 2025:** - 
