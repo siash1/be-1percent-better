@@ -147,7 +147,7 @@
 - **24 July 2025:** - frontend final changes 
 - **25 July 2025:** - frontend changes and demo
 - **26 July 2025:** -  dsa
-- **27 July 2025:** - 
+- **27 July 2025:** - dsa
 - **28 July 2025:** - 
 - **29 July 2025:** - 
 - **30 July 2025:** - 
