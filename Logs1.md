@@ -149,6 +149,6 @@
 - **26 July 2025:** -  dsa
 - **27 July 2025:** - dsa
 - **28 July 2025:** - preprod chabges and ios build
-- **29 July 2025:** - 
+- **29 July 2025:** - add Product page css
 - **30 July 2025:** - 
 - **31 July 2025:** - 
