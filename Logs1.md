@@ -152,3 +152,33 @@
 - **29 July 2025:** - add Product page css
 - **30 July 2025:** - add product page
 - **31 July 2025:** - 
+- **1 August 2025:** - 
+- **2 August 2025:** - 
+- **3 August 2025:** - 
+- **4 August 2025:** - 
+- **5 August 2025:** - 
+- **6 August 2025:** - 
+- **7 August 2025:** - 
+- **8 August 2025:** - 
+- **9 August 2025:** - 
+- **10 August 2025:** - 
+- **11 August 2025:** - 
+- **12 August 2025:** - 
+- **13 August 2025:** - 
+- **14 August 2025:** - 
+- **15 August 2025:** - 
+- **16 August 2025:** - 
+- **17 August 2025:** - 
+- **18 August 2025:** - 
+- **19 August 2025:** - 
+- **20 August 2025:** - 
+- **21 August 2025:** - 
+- **22 August 2025:** - 
+- **23 August 2025:** - 
+- **24 August 2025:** - 
+- **25 August 2025:** - 
+- **26 August 2025:** - 
+- **27 August 2025:** - 
+- **28 August 2025:** - 
+- **29 August 2025:** - 
+- **30 August 2025:** - 
