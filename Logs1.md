@@ -151,7 +151,7 @@
 - **28 July 2025:** - preprod chabges and ios build
 - **29 July 2025:** - add Product page css
 - **30 July 2025:** - add product page
-- **31 July 2025:** - 
+- **31 July 2025:** - validators in product fields
 - **1 August 2025:** - 
 - **2 August 2025:** - 
 - **3 August 2025:** - 
