@@ -153,7 +153,7 @@
 - **30 July 2025:** - add product page
 - **31 July 2025:** - validators in product fields
 - **1 August 2025:** - DSA
-- **2 August 2025:** - 
+- **2 August 2025:** - DSA
 - **3 August 2025:** - 
 - **4 August 2025:** - 
 - **5 August 2025:** - 
