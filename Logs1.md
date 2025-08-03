@@ -154,7 +154,7 @@
 - **31 July 2025:** - validators in product fields
 - **1 August 2025:** - DSA
 - **2 August 2025:** - DSA
-- **3 August 2025:** - 
+- **3 August 2025:** - dsa
 - **4 August 2025:** - 
 - **5 August 2025:** - 
 - **6 August 2025:** - 
