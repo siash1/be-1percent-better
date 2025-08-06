@@ -157,7 +157,7 @@
 - **3 August 2025:** - dsa
 - **4 August 2025:** - frontend product limiter 
 - **5 August 2025:** - product limter
-- **6 August 2025:** - 
+- **6 August 2025:** - product limiter
 - **7 August 2025:** - 
 - **8 August 2025:** - 
 - **9 August 2025:** - 
