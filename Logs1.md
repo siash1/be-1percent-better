@@ -158,7 +158,7 @@
 - **4 August 2025:** - frontend product limiter 
 - **5 August 2025:** - product limter
 - **6 August 2025:** - product limiter
-- **7 August 2025:** - 
+- **7 August 2025:** - qr code limiter
 - **8 August 2025:** - 
 - **9 August 2025:** - 
 - **10 August 2025:** - 
