@@ -159,7 +159,7 @@
 - **5 August 2025:** - product limter
 - **6 August 2025:** - product limiter
 - **7 August 2025:** - qr code limiter
-- **8 August 2025:** - 
+- **8 August 2025:** - rakhi
 - **9 August 2025:** - 
 - **10 August 2025:** - 
 - **11 August 2025:** - 
