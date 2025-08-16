@@ -165,8 +165,8 @@
 - **11 August 2025:** - qr  code limiter bugs
 - **12 August 2025:** - testing 
 - **13 August 2025:** - research on SAP
-- **14 August 2025:** - login page dcms
-- **15 August 2025:** - 
+- **14 August 2025:** - 
+- **15 August 2025:** - login page dcms
 - **16 August 2025:** - 
 - **17 August 2025:** - 
 - **18 August 2025:** - 
