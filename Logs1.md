@@ -169,7 +169,7 @@
 - **15 August 2025:** - login page dcms
 - **16 August 2025:** - login page
 - **17 August 2025:** - planning for dashboard 
-- **18 August 2025:** - 
+- **18 August 2025:** - static website and VPC for prod
 - **19 August 2025:** - 
 - **20 August 2025:** - 
 - **21 August 2025:** - 
