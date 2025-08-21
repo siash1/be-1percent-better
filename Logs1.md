@@ -172,7 +172,7 @@
 - **18 August 2025:** - static website and VPC for prod
 - **19 August 2025:** - AWS solution architecture course starting - IAM user
 - **20 August 2025:** - VPC- network and IP
-- **21 August 2025:** - 
+- **21 August 2025:** - VPC
 - **22 August 2025:** - 
 - **23 August 2025:** - 
 - **24 August 2025:** - 
