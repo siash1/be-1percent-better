@@ -174,7 +174,7 @@
 - **20 August 2025:** - VPC- network and IP
 - **21 August 2025:** - VPC
 - **22 August 2025:** - supabase and login images change 
-- **23 August 2025:** - 
+- **23 August 2025:** - dcms planning and supa base 
 - **24 August 2025:** - 
 - **25 August 2025:** - 
 - **26 August 2025:** - 
