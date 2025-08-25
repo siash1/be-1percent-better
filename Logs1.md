@@ -176,7 +176,7 @@
 - **22 August 2025:** - supabase and login images change 
 - **23 August 2025:** - dcms planning and supa base 
 - **24 August 2025:** - auth with supabase
-- **25 August 2025:** - 
+- **25 August 2025:** - aic architecture and dcms dashboard, settings page
 - **26 August 2025:** - 
 - **27 August 2025:** - 
 - **28 August 2025:** - 
