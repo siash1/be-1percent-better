@@ -177,7 +177,7 @@
 - **23 August 2025:** - dcms planning and supa base 
 - **24 August 2025:** - auth with supabase
 - **25 August 2025:** - aic architecture and dcms dashboard, settings page
-- **26 August 2025:** - 
+- **26 August 2025:** - db for prod and connect to ec2, search query for dcms patients
 - **27 August 2025:** - 
 - **28 August 2025:** - 
 - **29 August 2025:** - 
