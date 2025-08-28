@@ -179,6 +179,6 @@
 - **25 August 2025:** - aic architecture and dcms dashboard, settings page
 - **26 August 2025:** - db for prod and connect to ec2, search query for dcms patients
 - **27 August 2025:** - appointment db query
-- **28 August 2025:** - 
+- **28 August 2025:** - appointment functionality and user limitations 
 - **29 August 2025:** - 
 - **30 August 2025:** - 
