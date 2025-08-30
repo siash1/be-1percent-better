@@ -181,4 +181,4 @@
 - **27 August 2025:** - appointment db query
 - **28 August 2025:** - appointment functionality and user limitations 
 - **29 August 2025:** - testing of aic
-- **30 August 2025:** - 
+- **30 August 2025:** - break 
