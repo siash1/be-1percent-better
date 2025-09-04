@@ -186,7 +186,7 @@
 - **1 September 2025:** - JCB discussion
 - **2 September 2025:** - error handling of limit users and iam service role
 - **3 September 2025:** - iam service and EC2
-- **4 September 2025:** -
+- **4 September 2025:** - break
 - **5 September 2025:** -
 - **6 September 2025:** -
 - **7 September 2025:** -
