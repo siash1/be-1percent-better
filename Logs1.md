@@ -188,7 +188,7 @@
 - **3 September 2025:** - iam service and EC2
 - **4 September 2025:** - break
 - **5 September 2025:** - sick
-- **6 September 2025:** -
+- **6 September 2025:** - sick
 - **7 September 2025:** -
 - **8 September 2025:** -
 - **9 September 2025:** -
