@@ -189,7 +189,7 @@
 - **4 September 2025:** - break
 - **5 September 2025:** - sick
 - **6 September 2025:** - sick
-- **7 September 2025:** -
+- **7 September 2025:** - EC2
 - **8 September 2025:** -
 - **9 September 2025:** -
 - **10 September 2025:** -
