@@ -191,7 +191,7 @@
 - **6 September 2025:** - sick
 - **7 September 2025:** - EC2
 - **8 September 2025:** - medtech planning 
-- **9 September 2025:** -
+- **9 September 2025:** - dashboard demo
 - **10 September 2025:** -
 - **11 September 2025:** -
 - **12 September 2025:** -
