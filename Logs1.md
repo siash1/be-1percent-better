@@ -193,7 +193,7 @@
 - **8 September 2025:** - medtech planning 
 - **9 September 2025:** - dashboard demo
 - **10 September 2025:** - dashboard demo
-- **11 September 2025:** -
+- **11 September 2025:** - variable data in print 
 - **12 September 2025:** -
 - **13 September 2025:** -
 - **14 September 2025:** -
