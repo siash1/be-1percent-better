@@ -196,8 +196,8 @@
 - **11 September 2025:** - variable data in print 
 - **12 September 2025:** - dcms consultation page
 - **13 September 2025:** - dcms
-- **14 September 2025:** -
-- **15 September 2025:** -
+- **14 September 2025:** -  dcms
+- **15 September 2025:** - bug fixes in aic
 - **16 September 2025:** -
 - **17 September 2025:** -
 - **18 September 2025:** -
