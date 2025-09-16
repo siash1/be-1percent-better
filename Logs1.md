@@ -198,7 +198,7 @@
 - **13 September 2025:** - dcms
 - **14 September 2025:** -  dcms
 - **15 September 2025:** - bug fixes in aic
-- **16 September 2025:** -
+- **16 September 2025:** - lambda for batch creation 
 - **17 September 2025:** -
 - **18 September 2025:** -
 - **19 September 2025:** -
