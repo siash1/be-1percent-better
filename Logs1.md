@@ -200,7 +200,7 @@
 - **15 September 2025:** - bug fixes in aic
 - **16 September 2025:** - lambda for batch creation 
 - **17 September 2025:** - dcms
-- **18 September 2025:** -
+- **18 September 2025:** - printing variable frontend
 - **19 September 2025:** -
 - **20 September 2025:** -
 - **21 September 2025:** -
