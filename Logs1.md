@@ -204,7 +204,7 @@
 - **19 September 2025:** - dcms
 - **20 September 2025:** - dcms meeting 
 - **21 September 2025:** - break 
-- **22 September 2025:** -
+- **22 September 2025:** - aic changes
 - **23 September 2025:** -
 - **24 September 2025:** -
 - **25 September 2025:** -
