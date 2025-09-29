@@ -211,7 +211,7 @@
 - **26 September 2025:** - medtech meeting 
 - **27 September 2025:** - dcms
 - **28 September 2025:** - dcms
-- **29 September 2025:** -
+- **29 September 2025:** - dcms meeting 
 - **30 September 2025:** -
 - **1 October 2025:** -
 - **2 October 2025:** -
