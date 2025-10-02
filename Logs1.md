@@ -214,7 +214,7 @@
 - **29 September 2025:** - dcms meeting 
 - **30 September 2025:** - dcms
 - **1 October 2025:** - dcms clinic profile 
-- **2 October 2025:** -
+- **2 October 2025:** - break
 - **3 October 2025:** -
 - **4 October 2025:** -
 - **5 October 2025:** -
