@@ -217,9 +217,9 @@
 - **2 October 2025:** - break
 - **3 October 2025:** - doc upload for MR
 - **4 October 2025:** - dcms
-- **5 October 2025:** -
-- **6 October 2025:** -
-- **7 October 2025:** -
+- **5 October 2025:** - break
+- **6 October 2025:** - aic 
+- **7 October 2025:** - aic table
 - **8 October 2025:** -
 - **9 October 2025:** -
 - **10 October 2025:** -
