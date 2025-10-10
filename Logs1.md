@@ -222,7 +222,7 @@
 - **7 October 2025:** - aic table
 - **8 October 2025:** - dcms
 - **9 October 2025:** - dcms
-- **10 October 2025:** -
+- **10 October 2025:** - dcms slot availablity 
 - **11 October 2025:** -
 - **12 October 2025:** -
 - **13 October 2025:** -
