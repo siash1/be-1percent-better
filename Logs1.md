@@ -225,13 +225,13 @@
 - **10 October 2025:** - dcms slot availablity 
 - **11 October 2025:** - dcms 
 - **12 October 2025:** - avx ios app
-- **13 October 2025:** -
-- **14 October 2025:** -
-- **15 October 2025:** -
-- **16 October 2025:** -
-- **17 October 2025:** -
-- **18 October 2025:** -
-- **19 October 2025:** -
+- **13 October 2025:** - dcms
+- **14 October 2025:** - dcms
+- **15 October 2025:** - break
+- **16 October 2025:** - break
+- **17 October 2025:** - break
+- **18 October 2025:** - break
+- **19 October 2025:** - break 
 - **20 October 2025:** -
 - **21 October 2025:** -
 - **22 October 2025:** -
