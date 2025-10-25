@@ -237,7 +237,7 @@
 - **22 October 2025:** - pms
 - **23 October 2025:** - dcms
 - **24 October 2025:** - dcms procedure 
-- **25 October 2025:** -
+- **25 October 2025:** - dcms
 - **26 October 2025:** -
 - **27 October 2025:** -
 - **28 October 2025:** -
