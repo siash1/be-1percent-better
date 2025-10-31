@@ -243,5 +243,5 @@
 - **28 October 2025:** - inventory management flow diagram 
 - **29 October 2025:** - dcms tooth structure svg
 - **30 October 2025:** - dcms tooth modal 
-- **31 October 2025:** -
-- **21 October 2025:** -
+- **31 October 2025:** - sick
+- **1 November 2025:** -
