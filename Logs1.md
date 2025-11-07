@@ -250,7 +250,7 @@
 - **4 November 2025:** - dcms
 - **5 November 2025:** -  dcms dashboard 
 - **6 November 2025:** - db schema copy and dcms
-- **7 November 2025:** - 
+- **7 November 2025:** - dcms dashboard and video edit 
 - **8 November 2025:** - 
 - **9 November 2025:** - 
 - **10 November 2025:** - 
