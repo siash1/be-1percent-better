@@ -252,7 +252,7 @@
 - **6 November 2025:** - db schema copy and dcms
 - **7 November 2025:** - dcms dashboard and video edit 
 - **8 November 2025:** - video edit
-- **9 November 2025:** - 
+- **9 November 2025:** - ios development 
 - **10 November 2025:** - 
 - **11 November 2025:** - 
 - **12 November 2025:** - 
