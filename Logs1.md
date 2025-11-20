@@ -263,7 +263,7 @@
 - **17 November 2025:** - ios native app
 - **18 November 2025:** - dcms changes
 - **19 November 2025:** - dcms changes
-- **20 November 2025:** - 
+- **20 November 2025:** - ios app avx
 - **21 November 2025:** - 
 - **22 November 2025:** - 
 - **23 November 2025:** - 
