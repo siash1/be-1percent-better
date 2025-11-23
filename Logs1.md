@@ -265,8 +265,8 @@
 - **19 November 2025:** - dcms changes
 - **20 November 2025:** - ios app avx
 - **21 November 2025:** - ios app
-- **22 November 2025:** - 
-- **23 November 2025:** - 
+- **22 November 2025:** - dcms
+- **23 November 2025:** - dcms changes done 
 - **24 November 2025:** - 
 - **25 November 2025:** - 
 - **26 November 2025:** - 
