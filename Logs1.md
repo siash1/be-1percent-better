@@ -269,7 +269,7 @@
 - **23 November 2025:** - dcms changes done 
 - **24 November 2025:** - shopify app
 - **25 November 2025:** - ios app avx
-- **26 November 2025:** - 
+- **26 November 2025:** - dcms changes 
 - **27 November 2025:** - 
 - **28 November 2025:** - 
 - **29 November 2025:** - 
