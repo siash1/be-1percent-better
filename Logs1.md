@@ -275,7 +275,7 @@
 - **29 November 2025:** - dcms changes
 - **30 November 2025:** - dcms changes
 - **1 December 2025:** - dcms changes and speech to text app
-- **2 December 2025:** - 
+- **2 December 2025:** - ios app  
 - **3 December 2025:** - 
 - **4 December 2025:** - 
 - **5 December 2025:** - 
