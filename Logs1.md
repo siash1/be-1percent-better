@@ -277,8 +277,8 @@
 - **1 December 2025:** - dcms changes and speech to text app
 - **2 December 2025:** - ios app  
 - **3 December 2025:** - ios app
-- **4 December 2025:** - 
-- **5 December 2025:** - 
+- **4 December 2025:** - voice recognition app
+- **5 December 2025:** - voice recognition app
 - **6 December 2025:** - 
 - **7 December 2025:** - 
 - **8 December 2025:** - 
