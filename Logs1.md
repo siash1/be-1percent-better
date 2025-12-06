@@ -279,7 +279,7 @@
 - **3 December 2025:** - ios app
 - **4 December 2025:** - voice recognition app
 - **5 December 2025:** - voice recognition app
-- **6 December 2025:** - 
+- **6 December 2025:** - voicerx
 - **7 December 2025:** - 
 - **8 December 2025:** - 
 - **9 December 2025:** - 
