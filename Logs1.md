@@ -282,7 +282,7 @@
 - **6 December 2025:** - voicerx
 - **7 December 2025:** - rest
 - **8 December 2025:** - ios app
-- **9 December 2025:** - 
+- **9 December 2025:** - cicd pipeline 
 - **10 December 2025:** - 
 - **11 December 2025:** - 
 - **12 December 2025:** - 
