@@ -283,7 +283,7 @@
 - **7 December 2025:** - rest
 - **8 December 2025:** - ios app
 - **9 December 2025:** - cicd pipeline 
-- **10 December 2025:** - 
+- **10 December 2025:** - ios app
 - **11 December 2025:** - 
 - **12 December 2025:** - 
 - **13 December 2025:** - 
