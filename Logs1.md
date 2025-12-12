@@ -285,7 +285,7 @@
 - **9 December 2025:** - cicd pipeline 
 - **10 December 2025:** - ios app
 - **11 December 2025:** - ios app onnx
-- **12 December 2025:** - 
+- **12 December 2025:** - ios app 
 - **13 December 2025:** - 
 - **14 December 2025:** - 
 - **15 December 2025:** - 
