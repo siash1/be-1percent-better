@@ -287,8 +287,8 @@
 - **11 December 2025:** - ios app onnx
 - **12 December 2025:** - ios app 
 - **13 December 2025:** - break
-- **14 December 2025:** - 
-- **15 December 2025:** - 
+- **14 December 2025:** -  kotlin app
+- **15 December 2025:** - dcms changes 
 - **16 December 2025:** - 
 - **17 December 2025:** - 
 - **18 December 2025:** - 
