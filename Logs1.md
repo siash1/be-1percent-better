@@ -289,7 +289,7 @@
 - **13 December 2025:** - break
 - **14 December 2025:** -  kotlin app
 - **15 December 2025:** - dcms changes 
-- **16 December 2025:** - 
+- **16 December 2025:** - ios backend changes
 - **17 December 2025:** - 
 - **18 December 2025:** - 
 - **19 December 2025:** - 
