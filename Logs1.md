@@ -290,7 +290,7 @@
 - **14 December 2025:** -  kotlin app
 - **15 December 2025:** - dcms changes 
 - **16 December 2025:** - ios backend changes
-- **17 December 2025:** - 
+- **17 December 2025:** - own app planning feature
 - **18 December 2025:** - 
 - **19 December 2025:** - 
 - **20 December 2025:** - 
