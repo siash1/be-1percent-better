@@ -292,7 +292,7 @@
 - **16 December 2025:** - ios backend changes
 - **17 December 2025:** - own app planning feature
 - **18 December 2025:** - ios app
-- **19 December 2025:** - 
+- **19 December 2025:** - transceiption databasw schema
 - **20 December 2025:** - 
 - **21 December 2025:** - 
 - **22 December 2025:** - 
